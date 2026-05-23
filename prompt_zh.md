@@ -1,20 +1,16 @@
-# 論文藍圖
+# 論文研究與寫作藍圖
 
-## 暫定標題
+## 專案目標
 
-**口腔癌與頭頸癌中的 Cisplatin 給藥時機：器官特異性毒性機制、臨床給藥限制與 Chronotherapy 的理論基礎**
+撰寫一篇準備投稿至 **Oral Oncology** 的 review article，主題聚焦於口腔鱗狀細胞癌（oral squamous cell carcinoma, OSCC）與頭頸鱗狀細胞癌（head-and-neck squamous cell carcinoma, HNSCC）中 cisplatin 的臨床使用、毒性機制，以及 chronotherapy 的潛在應用。
 
-### 替代標題
-
-1. **邁向降低毒性的口腔癌 Cisplatin 治療：整合器官損傷機制、治療流程與晝夜節律給藥時機**
-2. **口腔癌與頭頸癌中的 Chronotype-aware Cisplatin Scheduling：機制基礎與轉譯研究路線圖**
-3. **生物時間作為口腔癌與頭頸鱗狀細胞癌 Cisplatin 治療中的可調控維度**
+本篇論文應批判性評估：OSCC/HNSCC 中的 cisplatin toxicity 是否可被理解為一種器官特異性、路徑特異性，且可能具有時間依賴性的生物現象；並進一步討論 chronotype-aware cisplatin scheduling 是否可作為一個未來可測試的降低毒性策略。
 
 ---
 
 # 目標期刊
 
-## 主要目標
+## 主要目標期刊
 
 **Oral Oncology**
 
@@ -24,15 +20,13 @@
 
 ## 與期刊範圍的契合度
 
-本篇論文適合投稿 **Oral Oncology**，因為疾病焦點明確放在口腔癌與頭頸鱗狀細胞癌，並且批判性地評估一個具臨床相關性的治療問題：如何透過整合器官特異性毒性機制、現行治療流程與晝夜節律生物學，降低 cisplatin 相關毒性。
+本篇論文適合投稿 **Oral Oncology**，因為其疾病焦點是口腔癌與頭頸鱗狀細胞癌，並且處理一個具有臨床重要性的治療問題：是否能透過整合器官特異性毒性機制、現行治療流程與晝夜節律生物學，降低 cisplatin 相關毒性。
 
-本篇論文應定位為 **具有轉譯觀點的批判性綜述**，而不是系統性回顧，也不是一般性的 cisplatin 藥理學綜述。
+本篇論文應定位為 **具有轉譯觀點的批判性綜述**，而不是系統性回顧、meta-analysis，也不是一般 cisplatin 藥理學綜述。
 
-## 相關投稿規定
+## Oral Oncology 相關投稿規定
 
-根據 Oral Oncology 的作者指南文字：
-
-> “Review articles that are topical and a critical assessment of any aspect of head and neck are welcome. Review articles collate, describe, and evaluate prior publications of important head and neck subjects, accompanied by critical analysis leading to rational conclusions.”
+Oral Oncology 歡迎 topical 且 critical assessment of any aspect of head and neck 的 review articles。Review articles 應整理、描述並評估重要頭頸腫瘤主題的既有文獻，並透過批判性分析導出合理結論。
 
 ### 格式限制
 
@@ -42,13 +36,11 @@
 | 圖與表 | 最多 **7 個** |
 | 參考文獻 | 最多 **120 篇** |
 | 摘要 | 簡短摘要，說明 review 目標 |
-| 必要章節 | Introduction, discussion, conclusion |
-| 作者自身原始資料 | 應很少，或完全沒有 |
+| 必要結構 | Introduction, discussion, conclusion |
+| 作者自身原始資料 | 應極少，或完全沒有 |
 | 接受文章類型 | Review articles, targeted mini-reviews, meta-analyses |
 
 ## 本篇論文的實際目標規格
-
-雖然期刊允許最多 5,000 words 與 120 篇 references，但本篇論文較理想的規劃如下：
 
 | 組成 | 目標 |
 |---|---:|
@@ -61,9 +53,23 @@
 
 ---
 
+# 暫定標題
+
+**Cisplatin Timing in Oral and Head-and-Neck Cancer: Organ-Specific Toxicity Mechanisms, Clinical Delivery Constraints, and the Rationale for Chronotherapy**
+
+## 替代標題
+
+1. **Toward Toxicity-Sparing Cisplatin Therapy in Oral Cancer: Integrating Organ Injury Mechanisms, Treatment Logistics, and Circadian Timing**
+2. **Chronotype-Aware Cisplatin Scheduling in Oral and Head-and-Neck Cancer: Mechanistic Rationale and Translational Roadmap**
+3. **Biological Time as a Modifiable Dimension of Cisplatin Therapy in Oral and Head-and-Neck Squamous Cell Carcinoma**
+
+---
+
 # 核心論點
 
-**OSCC/HNSCC 中的 cisplatin 毒性不應只被視為 dose-dependent adverse-effect profile。它更應被理解為一種器官特異性、路徑特異性，並且可能具有時間依賴性的生物現象。由於許多決定 cisplatin 毒性的關鍵因素，包括 DNA 修復、platinum uptake、氧化壓力、黏膜增生與腎臟損傷路徑，都受到晝夜節律生物學影響，因此 chronotype-aware cisplatin scheduling 應被視為一個可測試的降低毒性策略。**
+OSCC/HNSCC 中的 cisplatin toxicity 不應只被視為一種 dose-dependent adverse-effect profile。它應被理解為一種器官特異性、路徑特異性，且可能具有時間依賴性的生物現象。
+
+由於多個決定 cisplatin 毒性的關鍵因素，包括 DNA repair、platinum uptake、oxidative stress、mucosal proliferation、renal injury pathways 與 inflammatory responses，皆可能受到 circadian biology 影響，因此 chronotype-aware cisplatin scheduling 應被評估為一種可測試的 toxicity-sparing strategy。
 
 ---
 
@@ -71,11 +77,11 @@
 
 本篇論文應依照以下邏輯推進：
 
-1. **Cisplatin 仍然是 OSCC/HNSCC 治療中的核心藥物。**
-2. **其臨床應用受到累積性毒性限制**，尤其是 nephrotoxicity、ototoxicity、mucositis、nausea/vomiting、neuropathy 與治療中斷。
-3. **這些毒性是可以用機制解釋的**，而不只是描述性的 adverse events。
-4. **許多相關毒性機制與晝夜節律調控路徑有關**，包括 XPA/NER、OCT2、BMAL1、glutathione/redox regulation 與 mucosal epithelial proliferation。
-5. **現有 cisplatin chronotherapy 證據具有潛力，但樣本數不足且證據尚未成熟**，尤其是在 OSCC 與 NPC 研究中。
+1. **Cisplatin 仍然是 OSCC/HNSCC 臨床治療中的核心藥物。**
+2. **Cisplatin 的臨床效益受到累積性毒性限制**，尤其是 nephrotoxicity、ototoxicity、mucositis、nausea/vomiting、neuropathy 與 treatment interruption。
+3. **這些毒性具有可解釋的機制基礎**，不應只被視為描述性 adverse events。
+4. **許多相關毒性機制與 circadian-regulated pathways 有關**，包括 XPA/NER、OCT2、BMAL1/ARNTL、glutathione/redox regulation、mucosal epithelial proliferation、DNA damage response 與 inflammatory rhythms。
+5. **現有 cisplatin chronotherapy 證據具有潛力但仍屬初步**，尤其是在 OSCC 與 nasopharyngeal carcinoma 的研究中。
 6. **下一步不應是立即臨床導入**，而應是設計 chronotype-aware、biomarker-informed、toxicity-endpoint-driven 的臨床研究。
 
 ---
@@ -84,84 +90,17 @@
 
 本篇論文應寫成：
 
-> **一篇面向頭頸腫瘤讀者的聚焦型機制與轉譯綜述。**
+> 一篇面向頭頸腫瘤讀者的聚焦型機制與轉譯綜述。
 
 不應寫成：
 
-- 完整的 cisplatin 藥理學綜述。
+- 完整 cisplatin 藥理學綜述。
 - 各國 guideline 比較。
 - 系統性回顧或 meta-analysis。
-- 基礎晝夜節律生物學綜述。
+- 基礎 circadian biology 綜述。
 - 過度推銷 chronotherapy 的 speculative article。
 
-語氣應保持批判、平衡、審慎。
-
----
-
-# 現有草稿：應保留的部分
-
-目前草稿已有很強的概念基礎。上傳的草稿標題為 **“Timing Matters: Mechanistic Rationale and Emerging Evidence for Cisplatin Chronotherapy in Oral and Head-and-Neck Squamous Cell Carcinoma”**，這已經與預期疾病範圍與介入主題相符。:contentReference[oaicite:0]{index=0}
-
-草稿也已經定義出清楚的敘事路徑：從 cisplatin chemistry、cellular action、DNA damage、oral cancer clinical use、toxicity、circadian regulation、chronotherapy evidence 到 future perspectives。:contentReference[oaicite:1]{index=1}
-
-目前最強的部分包括：
-
-1. Cisplatin uptake 與 DNA damage mechanism。
-2. 器官特異性毒性描述。
-3. XPA/NER 的 circadian rationale。
-4. BMAL1 的 tissue-specific paradox。
-5. 臨床證據整理。
-6. 未來方向：chronotype-aware scheduling、wearable monitoring 與 PK/PD modelling。
-
----
-
-# 現有草稿：應壓縮的部分
-
-## 應壓縮
-
-### 1. Cisplatin chemistry 與 DNA damage mechanism
-
-目前草稿包含 cisplatin structure、aquation、CTR1/OCT2 uptake、DNA adduct formation、NER、ATR/ATM、p53、PUMA/BAX 與 apoptosis。:contentReference[oaicite:2]{index=2}
-
-這些內容應保留，但要壓縮。
-
-**目標長度：500–650 words。**
-
-### 2. 基礎 circadian biology
-
-除非能直接連到 cisplatin toxicity，否則不要花太多篇幅解釋 CLOCK–BMAL1–PER–CRY loops。
-
-### 3. 高度推測性的 future sections
-
-目前草稿包含 oral platinum formulations、metronomic approaches 與 epigenetic clock restoration。:contentReference[oaicite:3]{index=3}
-
-這些可以簡短保留，但不應主導 future perspective section。
-
----
-
-# 現有草稿：應加強的部分
-
-## 應加強
-
-### 1. Clinical delivery constraints
-
-目前草稿已經討論 high-dose cisplatin、weekly cisplatin、induction TPF/DCF 與 toxicity burden。:contentReference[oaicite:4]{index=4}
-
-這部分應重新定位為：
-
-> **Cisplatin 在 OSCC/HNSCC 治療流程中出現的位置，以及為什麼現行 protocol 對 biological time 視而不見。**
-
-### 2. Organ-specific toxicity mechanism
-
-目前草稿已經將 nephrotoxicity 連結到 OCT2-mediated uptake、ROS、p53–PUMA–BAX apoptosis 與 inflammatory cytokines；將 mucositis 連結到 rapidly cycling mucosal epithelium 與 barrier disruption；並將 neuropathy 連結到 dorsal root ganglion platinum accumulation 與 mitochondrial dysfunction。:contentReference[oaicite:5]{index=5}
-
-這部分應成為論文的主要強項之一。
-
-### 3. Chronotherapy molecular-node table
-
-目前草稿已經指出 XPA、BMAL1、OCT2、GSH、mucosal proliferation 與 circadian disruption 是相關節點。:contentReference[oaicite:6]{index=6}
-
-這些內容應轉換為結構化表格。
+語氣應保持批判、平衡、具臨床現實感。
 
 ---
 
@@ -169,20 +108,22 @@
 
 ## Abstract
 
-**目標長度：180–220 words。**
+### 目標長度
+
+180–220 words。
 
 ### 目的
 
-說明本 review 將評估 OSCC/HNSCC 中 cisplatin toxicity 是否可被理解為 timing-sensitive biological problem，以及 chronotype-aware scheduling 是否可能成為降低毒性的策略。
+說明本 review 將評估 OSCC/HNSCC 中 cisplatin toxicity 是否可被理解為 timing-sensitive biological problem，以及 chronotype-aware scheduling 是否可能成為 toxicity-reduction strategy。
 
 ### 必須包含
 
 - Cisplatin 仍然是 OSCC/HNSCC 治療核心。
-- 毒性限制治療完成度。
-- 毒性機制具有器官特異性。
-- DNA repair、uptake transporters、redox biology 與 mucosal proliferation 受到 circadian regulation。
+- Toxicity 限制 treatment completion。
+- Toxicity mechanisms 具有器官特異性。
+- DNA repair、uptake transporters、redox biology、inflammatory pathways 與 mucosal proliferation 受到 circadian regulation 或與 clock-associated pathways 相關。
 - 臨床證據仍屬初步。
-- 未來 trial 應整合 chronotype、wearable circadian monitoring 與 toxicity endpoints。
+- 未來 trials 應整合 chronotype、wearable circadian monitoring、biomarkers、toxicity endpoints 與 treatment logistics。
 
 ### 避免
 
@@ -204,7 +145,7 @@
 
 ## 目的
 
-介紹 cisplatin 作為 oral and head-and-neck cancer 中核心 cytotoxic 與 radiosensitising agent 的角色，並定義 toxicity 是限制治療完成度的關鍵障礙。
+介紹 cisplatin 作為 oral and head-and-neck cancer 中核心 cytotoxic 與 radiosensitising agent 的角色，並定義 toxicity 是限制 treatment completion 的關鍵障礙。
 
 ## 需要涵蓋的重點
 
@@ -214,9 +155,9 @@
   - postoperative high-risk chemoradiotherapy，
   - selected induction chemotherapy，
   - recurrent/metastatic systemic therapy。
-- 其臨床價值受到 nephrotoxicity、ototoxicity、mucositis、nausea/vomiting、neuropathy 與 cumulative dose limitation 限制。
-- 目前 protocol 重視 dose、cycle、renal function、hydration 與 antiemetics。
-- 目前 protocol 很少考慮 biological time。
+- 其臨床價值受到 nephrotoxicity、ototoxicity、mucositis、nausea/vomiting、neuropathy、cumulative dose limitation 與 treatment interruption 限制。
+- 現行 protocols 重視 dose、cycle、renal function、hydration 與 antiemetics。
+- 現行 protocols 很少考慮 biological time。
 - 本 review 主張 toxicity 應被理解為 organ-specific、pathway-specific 且 potentially time-dependent。
 
 ## 建議結尾句
@@ -237,7 +178,7 @@
 
 ## 目的
 
-提供讀者足夠的機制基礎，以理解後續毒性與 chronotherapy sections。
+提供讀者足夠的機制基礎，以理解後續 toxicity 與 chronotherapy sections。
 
 ## 核心內容
 
@@ -246,9 +187,9 @@
 簡短涵蓋：
 
 - Cisplatin 是 square-planar platinum(II) compound。
-- 其 cis configuration 對 DNA-crosslinking activity 至關重要。
+- Cis configuration 對 DNA-crosslinking activity 至關重要。
 - Chloride ligand displacement 會產生活性 aqua species。
-- 這些 reactive platinum species 會與 nucleophilic sites 結合，尤其是 DNA purines。
+- Reactive platinum species 會與 nucleophilic sites 結合，尤其是 DNA purines。
 
 ### 2.2 Cellular uptake and accumulation
 
@@ -256,8 +197,8 @@
 
 - CTR1 是主要 cisplatin influx route。
 - OCT2 對 renal proximal tubular cells 與 cochlear cells 尤其重要。
-- ATP7A/ATP7B 參與 efflux/sequestration。
-- Uptake、detoxification、repair 與 efflux 的平衡會影響療效與毒性。
+- ATP7A/ATP7B 是 efflux/sequestration transporters。
+- Uptake、detoxification、repair 與 efflux 的平衡會影響 efficacy 與 toxicity。
 
 ### 2.3 DNA adduct formation
 
@@ -272,16 +213,16 @@
 
 涵蓋：
 
-- NER 移除 bulky platinum adducts。
-- XPA 是重要 verification/scaffold factor。
+- Nucleotide excision repair 移除 bulky platinum adducts。
+- XPA 是 NER 中重要的 verification/scaffold factor。
 - Persistent damage 會活化 ATR/ATM → CHK1/CHK2 → p53。
 - p53 會活化 PUMA/BAX-mediated mitochondrial apoptosis。
 
 ## 這節與全文的關係
 
-本節結尾應連回主要 thesis：
+本節結尾應連回主要論點：
 
-> Because cisplatin-induced injury depends on platinum uptake, DNA adduct burden, repair capacity, oxidative injury, and apoptosis, any rhythmic variation in these processes could alter toxicity at a given dose.
+> Because cisplatin-induced injury depends on platinum uptake, DNA adduct burden, repair capacity, oxidative injury, inflammatory amplification, and apoptosis, rhythmic variation in these processes could alter toxicity at a given dose.
 
 ---
 
@@ -297,11 +238,11 @@
 
 ## 目的
 
-本節不應是各國 guideline 的逐一比較，而應說明 cisplatin 在 OSCC/HNSCC 中使用的位置，以及為什麼這些治療情境同時構成 chronotherapy 的機會與障礙。
+本節不應是各國 guideline 的逐一比較。它應說明 cisplatin 在 OSCC/HNSCC 中的使用位置，以及這些治療情境為何同時形成 chronotherapy 的機會與障礙。
 
 ## 核心定位
 
-OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stage 決定，而是取決於 treatment intent、resectability、pathological risk features、performance status、renal function、hearing status、neuropathy risk 與 institutional workflow。
+OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決定。它取決於 treatment intent、resectability、pathological risk features、performance status、renal function、hearing status、neuropathy risk 與 institutional workflow。
 
 ## 核心論點
 
@@ -316,18 +257,18 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - Early-stage OSCC 通常以 surgery 或 radiotherapy 治療。
 - Locally advanced OSCC/HNSCC 通常需要 multimodality treatment。
 - 當需要 systemic radiosensitisation、postoperative intensification、induction treatment 或 systemic disease control 時，cisplatin 會進入治療流程。
-- 因此，cisplatin 不只屬於某一個 stage。
+- Cisplatin 因此不只屬於某一個 stage。
 
 ### 建議寫法
 
-> Because OSCC staging is internationally standardised, it provides a useful entry point for discussing cisplatin use. However, cisplatin administration is not dictated by stage alone. Rather, it is determined by treatment intent and risk features: definitive chemoradiotherapy in unresectable or organ-preservation contexts, postoperative chemoradiotherapy for high-risk pathological disease, induction chemotherapy in selected locally advanced cases, and systemic therapy for recurrent or metastatic disease.
+> Because OSCC staging is internationally standardized, it provides a useful entry point for discussing cisplatin use. However, cisplatin administration is not dictated by stage alone. Rather, it is determined by treatment intent and risk features: definitive chemoradiotherapy in unresectable or organ-preservation contexts, postoperative chemoradiotherapy for high-risk pathological disease, induction chemotherapy in selected locally advanced cases, and systemic therapy for recurrent or metastatic disease.
 
 ### 3.2 Definitive concurrent chemoradiotherapy
 
 涵蓋：
 
 - Cisplatin 作為 systemic therapy 與 radiosensitiser。
-- 給藥時間受到 daily radiotherapy schedule 限制。
+- 給藥時間受到 daily radiotherapy schedules 限制。
 - Hydration、antiemetics、infusion-unit chair time 與 renal monitoring 都很重要。
 - 這個情境與 chronotherapy 相關，因為治療具排程性且會重複進行。
 
@@ -336,7 +277,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 涵蓋：
 
 - 若術後有 high-risk pathological features，cisplatin 可能會在手術後使用。
-- 病人可能有 postoperative nutritional compromise、wound recovery、pain、altered sleep、feeding tube use 與反覆醫院就診。
+- 病人可能有 postoperative nutritional compromise、wound recovery、pain、altered sleep、feeding tube use 與 repeated hospital visits。
 - Circadian disruption 可能已經存在。
 
 ### 3.4 Induction chemotherapy
@@ -369,6 +310,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - Radiotherapy appointment time。
 - Nursing and infusion-suite capacity。
 - Renal、electrolyte、auditory 與 neurological monitoring。
+- Patient transportation and evening infusion feasibility。
 
 ## 建議結尾句
 
@@ -388,7 +330,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ## 目的
 
-這應是全文最強的章節之一。目標是超越「cisplatin 會導致 nephrotoxicity、ototoxicity、mucositis」這種描述，進一步解釋為什麼這些毒性會發生。
+這應是全文最強的章節之一。目標是超越「cisplatin causes nephrotoxicity, ototoxicity, and mucositis」這種描述，進一步解釋為什麼這些毒性會發生。
 
 ## 核心 thesis
 
@@ -452,7 +394,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 重點：
 
 - Cisplatin 是 highly emetogenic。
-- 機制涉及 GI enterochromaffin cells、serotonin release、vagal afferents、central emetic pathways、substance P/NK1 signaling。
+- 機制涉及 GI enterochromaffin cells、serotonin release、vagal afferents、central emetic pathways 與 substance P/NK1 signaling。
 - Modern antiemetics 可降低但無法完全消除負擔。
 - Chronotherapy studies 常回報 GI toxicity endpoints。
 
@@ -476,18 +418,22 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - Bone marrow progenitor proliferation 可能有 circadian variation。
 - 簡短提及即可。
 
-## Table 1
+---
 
-**Table 1. Organ-specific mechanisms of cisplatin toxicity and chronotherapy-relevant vulnerabilities**
+# Table 1
+
+## Title
+
+**Organ-specific mechanisms of cisplatin toxicity and chronotherapy-relevant vulnerabilities**
 
 | Toxicity | Main target tissue/cell | Cisplatin access route | Dominant injury mechanisms | Circadian-relevant process | Clinical relevance |
 |---|---|---|---|---|---|
 | Nephrotoxicity | Proximal tubular cells | OCT2, CTR1 | DNA damage, ROS, mitochondrial injury, p53–PUMA/BAX apoptosis, inflammation | OCT2 rhythm, BMAL1, XPA/NER | Dose-limiting toxicity |
 | Ototoxicity | Cochlear outer hair cells, stria vascularis | OCT2-related accumulation | ROS, mitochondrial apoptosis, irreversible hair-cell injury | OCT2 rhythm plausible but under-studied | Irreversible hearing loss |
 | Mucositis | Oral/GI mucosal epithelium | systemic exposure plus RT synergy | DNA damage, epithelial turnover failure, ROS, inflammation, barrier breakdown | mucosal proliferation rhythm, clock-controlled cell cycle | Pain, feeding difficulty, treatment breaks |
-| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility and neuroendocrine rhythms | acute toxicity, hydration and nutrition impact |
-| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | weak evidence; possible redox/mitochondrial clock link | long-term morbidity |
-| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic proliferation rhythm | combination-regimen toxicity |
+| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility and neuroendocrine rhythms | Acute toxicity, hydration and nutrition impact |
+| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | weak evidence; possible redox/mitochondrial clock link | Long-term morbidity |
+| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic proliferation rhythm | Combination-regimen toxicity |
 
 ---
 
@@ -504,8 +450,6 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 ## 目的
 
 本節應綜合連結 circadian biology 與 cisplatin toxicity 的 proteins 與 pathways。
-
-你想用表格整理文獻中提出的蛋白，這個想法非常適合放在這裡。
 
 ## 主要論點
 
@@ -525,8 +469,6 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - 特定 circadian phases 下 normal tissue repair 可能較高。
 - 重要 knowledge gap：XPA rhythm 尚未充分在 OSCC tumor tissue 或 oral mucosa 中證實。
 
-目前草稿已經將 XPA 定位為 cisplatin pharmacology 中最具機制證據的 circadian influence。草稿也指出，目前尚不清楚 XPA 是否在 oral mucosa、cervical lymph nodes 或 HNSCC tumor stroma 中具有相似的震盪。:contentReference[oaicite:7]{index=7}
-
 ### 5.2 OCT2 / SLC22A2
 
 涵蓋：
@@ -545,8 +487,6 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - 在 kidney 中，BMAL1 可能促進 cisplatin injury。
 - 在 nasopharyngeal carcinoma 中，ARNTL silencing 可能促成 cisplatin resistance。
 - 這形成一個 **BMAL1 paradox**：clock biology 可能同時影響 host toxicity 與 tumor response。
-
-目前草稿已經把這點標示為重要概念：BMAL1 具有 tissue-context-dependent 的相反作用；renal BMAL1 促進 injury，而 NPC 中 ARNTL loss 則與 cisplatin resistance 有關。:contentReference[oaicite:8]{index=8}
 
 ### 5.4 GSH / redox metabolism
 
@@ -574,11 +514,13 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - Clock disruption 可能消除 chronotherapy benefit。
 - Hospitalisation、artificial light、dexamethasone、pain、opioids 與 feeding schedule 可能干擾病人 rhythm。
 
-目前草稿已經指出，由 hospitalisation、corticosteroids、pain、sleep fragmentation 與 altered nutrition 造成的 circadian disruption，可能削弱 fixed-time chronotherapy protocols。:contentReference[oaicite:9]{index=9}
+---
 
-## Table 2
+# Table 2
 
-**Table 2. Circadian-relevant molecular nodes in cisplatin response**
+## Title
+
+**Circadian-relevant molecular nodes in cisplatin response**
 
 | Molecule/pathway | Function in cisplatin response | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
 |---|---|---|---|---|---|
@@ -619,57 +561,59 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 將 OSCC crossover pilot 作為最直接相關的臨床證據。
 
-目前草稿指出 OSCC crossover pilot 包含 9 位接受 DCF induction chemotherapy 的病人，比較 daytime cisplatin 與 19:30 administration，evening group 中 grade 3 nausea 與 vomiting 較少。:contentReference[oaicite:10]{index=10}
-
 解讀：
 
-- 直接 OSCC evidence。
-- 樣本數非常小。
+- Direct OSCC evidence。
+- Very small sample size。
 - Hypothesis-generating。
-- 可用於選擇 toxicity endpoints。
+- Useful for selecting toxicity endpoints。
 
 ### 6.2 NPC randomized phase II trial
 
-目前草稿描述了一項 148 位 locally advanced NPC patients 的 phase II randomized trial，比較 chronotherapy delivery 與 constant-rate cisplatin delivery，結果顯示 nausea、vomiting、total mucositis 與 grade 3 mucositis 下降。:contentReference[oaicite:11]{index=11}
+使用 NPC randomized phase II trial 作為支持性證據。
 
 解讀：
 
-- 較大的 clinical signal。
-- NPC 並不等同於 OSCC。
-- EBV-associated biology 與 radiation field 不同。
-- 並非以 survival 為主要 powered endpoint。
-- 支持 mucositis/GI toxicity endpoint selection。
+- Larger clinical signal。
+- NPC is not OSCC。
+- EBV-associated biology and radiation field differ。
+- Not powered for survival。
+- Supports mucositis/GI toxicity endpoint selection。
 
 ### 6.3 Preclinical models
 
 包含：
 
-- Mouse models 顯示 time-of-day differences in toxicity and DNA damage repair。
-- Clock-disrupted models 顯示 chronotherapy benefit 消失。
-- 這些 models 支持 biological plausibility，但不是 HNSCC-specific。
+- Mouse models showing time-of-day differences in toxicity and DNA damage repair。
+- Clock-disrupted models showing loss of chronotherapy benefit。
+- These models support biological plausibility but are not HNSCC-specific。
 
 ### 6.4 Counter-evidence and limitations
 
 討論：
 
-- 尚無 OSCC/HNSCC randomized trial 證明 survival benefit。
-- 現有 trials power 不足。
-- Toxicity endpoints 不一致。
-- Clock time 與 biological time 不等同。
-- Modern antiemetic regimens 可能降低 timing 對 nausea/vomiting 的額外效益。
-- 病人的 circadian disruption 可能干擾 fixed-time protocols。
+- No OSCC/HNSCC randomized trial has demonstrated survival benefit。
+- Existing trials are underpowered。
+- Toxicity endpoints vary。
+- Clock time and biological time are not equivalent。
+- Modern antiemetic regimens may reduce the incremental value of timing for nausea/vomiting。
+- Patient circadian disruption may confound fixed-time protocols。
 
-## Table 3
+---
 
-**Table 3. Evidence base for cisplatin chronotherapy relevant to OSCC/HNSCC**
+# Table 3
+
+## Title
+
+**Evidence base for cisplatin chronotherapy relevant to OSCC/HNSCC**
 
 | Study type | Model/population | Timing intervention | Main findings | Major limitation | Relevance to OSCC/HNSCC |
 |---|---|---|---|---|---|
-| OSCC crossover pilot | OSCC patients receiving DCF induction | daytime vs evening cisplatin | reduced severe nausea/vomiting | n=9, no efficacy power | direct but preliminary |
-| NPC phase II RCT | locally advanced NPC | chronomodulated vs constant cisplatin delivery | reduced nausea, vomiting, mucositis | NPC ≠ OSCC; survival not powered | supports mucosal/GI toxicity endpoint |
-| Mouse cisplatin model | non-HNSCC tumor models | ZT-based cisplatin timing | timing affects toxicity and DNA repair | cancer model mismatch | mechanistic support |
-| Clock-disruption model | tumor-bearing mice under jet-lag protocol | normal vs disrupted rhythm | disruption abolishes timing benefit | preclinical only | supports need for circadian monitoring |
-| Population chronobiology studies | cancer cohorts | rest-activity rhythm assessment | rhythm disruption linked to poorer outcomes | not cisplatin-specific | supports circadian integrity as biomarker |
+| OSCC crossover pilot | OSCC patients receiving DCF induction | daytime vs evening cisplatin | reduced severe nausea/vomiting | n=9, no efficacy power | Direct but preliminary |
+| NPC phase II RCT | locally advanced NPC | chronomodulated vs constant cisplatin delivery | reduced nausea, vomiting, mucositis | NPC ≠ OSCC; survival not powered | Supports mucosal/GI toxicity endpoint |
+| Mouse cisplatin model | non-HNSCC tumor models | ZT-based cisplatin timing | timing affects toxicity and DNA repair | cancer model mismatch | Mechanistic support |
+| Clock-disruption model | tumor-bearing mice under jet-lag protocol | normal vs disrupted rhythm | disruption abolishes timing benefit | preclinical only | Supports need for circadian monitoring |
+| Population chronobiology studies | cancer cohorts | rest-activity rhythm assessment | rhythm disruption linked to poorer outcomes | not cisplatin-specific | Supports circadian integrity as biomarker |
 
 ---
 
@@ -716,11 +660,11 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ### 1. Chronotype-aware, not fixed-clock
 
-不要假設 16:00 或 19:30 對所有人都是最佳時間。
+Do not assume that 16:00 or 19:30 is optimal for everyone.
 
 ### 2. Toxicity-first endpoints
 
-第一個 trial 應聚焦：
+The first trial should focus on:
 
 - grade ≥3 mucositis，
 - nephrotoxicity，
@@ -728,11 +672,11 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - treatment interruption，
 - cumulative cisplatin completion。
 
-早期研究不應以 survival 作為 primary endpoint。
+Do not use survival as the primary endpoint in an early study.
 
 ### 3. Circadian integrity assessment
 
-接受 CRT 的病人可能因以下因素出現 rhythm disruption：
+Patients undergoing CRT may have disrupted rhythms from:
 
 - pain，
 - mucositis，
@@ -744,11 +688,9 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 - anxiety，
 - malnutrition。
 
-目前草稿已正確指出，這是 fixed-time chronotherapy 的主要障礙。:contentReference[oaicite:12]{index=12}
-
 ### 4. Biomarker integration
 
-潛在 biomarkers：
+Potential biomarkers:
 
 - PBMC XPA rhythm。
 - Oral mucosa XPA expression。
@@ -759,7 +701,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ### 5. Workflow feasibility
 
-臨床導入取決於：
+Clinical implementation depends on:
 
 - infusion unit hours，
 - hydration time，
@@ -783,14 +725,14 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ## 必須說明
 
-- Cisplatin 仍然是 OSCC/HNSCC 的重要治療。
-- 毒性限制治療完成度。
-- 毒性具有明確器官特異性機制。
-- Circadian biology 合理地可能修飾多個關鍵毒性路徑。
-- 現有證據仍不足以支持立即臨床導入。
-- 未來研究應整合 chronotype、circadian monitoring、toxicity endpoints 與 clinical workflow。
+- Cisplatin remains important in OSCC/HNSCC。
+- Toxicity limits treatment completion。
+- Toxicity is mechanistically organ-specific。
+- Circadian biology plausibly modifies several key toxicity pathways。
+- Existing evidence supports further study but not immediate clinical implementation。
+- Future studies should integrate chronotype, circadian monitoring, toxicity endpoints, and clinical workflow。
 
-## 建議結論段落
+## Suggested conclusion paragraph
 
 > Cisplatin remains indispensable in the management of OSCC and HNSCC, but its clinical value is constrained by organ-specific toxicities that reflect defined mechanisms of platinum uptake, DNA damage, oxidative stress, repair failure, inflammation, and apoptosis. Circadian regulation of DNA repair, transporter expression, redox capacity, and mucosal proliferation provides a biologically plausible rationale for toxicity-sparing cisplatin scheduling. However, current evidence remains preliminary, with clinical signals largely restricted to toxicity reduction rather than survival improvement. The field should therefore move from fixed clock-time chronotherapy toward chronotype-aware, biomarker-informed trial designs that account for patient circadian integrity and real-world treatment logistics. Such studies could determine whether biological time is a modifiable dimension of cisplatin therapy in oral and head-and-neck cancer.
 
@@ -806,9 +748,9 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 |---|---|---|---|
 | Figure 1 | Cisplatin mechanism and organ-specific toxicity map | 顯示 cisplatin chemistry 如何導向 organ injury | Essential |
 | Figure 2 | Framework for chronotype-aware cisplatin scheduling | 顯示 proposed future trial/clinical workflow | Essential |
-| Table 1 | Cisplatin use in OSCC/HNSCC treatment pathways and timing constraints | 連接 clinical practice 與 chronotherapy | Essential |
-| Table 2 | Circadian molecular nodes in cisplatin response | 核心機制整合 | Essential |
-| Table 3 | Clinical and preclinical chronotherapy evidence | 整理證據與限制 | Essential |
+| Table 1 | Organ-specific mechanisms of cisplatin toxicity | 核心 toxicity mechanism synthesis | Essential |
+| Table 2 | Circadian molecular nodes in cisplatin response | 核心 chronotherapy mechanism synthesis | Essential |
+| Table 3 | Clinical and preclinical chronotherapy evidence | Evidence summary and limitations | Essential |
 
 ## 避免
 
@@ -836,7 +778,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ### Panel B: Organ-specific toxicity
 
-顯示四個 target organs：
+Show four target organs:
 
 1. Kidney  
    - OCT2 uptake  
@@ -862,7 +804,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin 的使用並非只由 stag
 
 ### Panel C: Circadian modifiers
 
-疊加：
+Overlay:
 
 - XPA/NER
 - OCT2
@@ -895,7 +837,7 @@ They are usually biological-time blind.
 
 ### Panel B: Proposed model
 
-加入：
+Add:
 
 - chronotype assessment，
 - actigraphy，
@@ -906,12 +848,12 @@ They are usually biological-time blind.
 
 ### Panel C: Trial design
 
-Randomization：
+Randomization:
 
 1. Standard institutional timing。
 2. Chronotype-adjusted cisplatin timing。
 
-Endpoints：
+Endpoints:
 
 - grade ≥3 mucositis，
 - nephrotoxicity，
@@ -922,61 +864,7 @@ Endpoints：
 
 ---
 
-# Table 1 Blueprint
-
-## Title
-
-**Cisplatin use in OSCC/HNSCC and chronotherapy-relevant delivery constraints**
-
-| Treatment context | Cisplatin role | Scheduling issue | Chronotherapy constraint | Relevant toxicity endpoint |
-|---|---|---|---|---|
-| Definitive concurrent CRT | Radiosensitizer and systemic cytotoxic agent | coordinated with daily RT | RT appointment time, hydration, infusion chair availability | mucositis, nephrotoxicity, nausea/vomiting |
-| Postoperative high-risk CRT | adjuvant intensification after surgery | given during postoperative RT | nutritional compromise, wound recovery, sleep disruption | mucositis, nephrotoxicity |
-| Weekly cisplatin CRT | repeated lower-dose exposure | frequent dosing opportunities | easier adaptive scheduling but repeated disruption possible | cumulative renal and mucosal toxicity |
-| q3-week high-dose cisplatin CRT | high-dose systemic exposure | larger toxicity burden per cycle | timing may matter more but logistics are harder | nephrotoxicity, ototoxicity, emesis |
-| Induction TPF/DCF | multi-agent cytotoxic regimen | combined docetaxel, cisplatin, 5-FU | companion-drug chronopharmacology | GI toxicity, myelosuppression, neuropathy |
-| Recurrent/metastatic therapy | systemic disease control | heterogeneous regimens | harder to standardize | renal toxicity, neuropathy, QoL |
-
----
-
-# Table 2 Blueprint
-
-## Title
-
-**Circadian molecular nodes relevant to cisplatin response**
-
-| Molecule/pathway | Cisplatin-related function | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
-|---|---|---|---|---|---|
-| XPA | NER repair of platinum-DNA adducts | strong in non-HNSCC tissues | kidney, blood; oral mucosa unknown | higher normal-tissue repair may reduce toxicity | strong mechanism, HNSCC gap |
-| ERCC1–XPF | NER incision and adduct excision | indirect through NER timing | tumor and normal tissues | may affect both toxicity and resistance | moderate |
-| OCT2 / SLC22A2 | renal/cochlear platinum uptake | clock-linked regulation suggested | kidney, cochlea | lower uptake phase may reduce toxicity | strong transporter biology |
-| CTR1 / SLC31A1 | platinum influx | circadian link unclear | tumor and normal tissues | important for efficacy/resistance | low–moderate |
-| BMAL1 / ARNTL | core clock transcription factor | tissue-specific effects | kidney, tumor | toxicity and tumor sensitivity may diverge | moderate |
-| PER/CRY | clock integrity | disruption abolishes timing effects in models | host tissues | intact rhythm may be prerequisite | strong preclinical |
-| GSH/GCLC | platinum detoxification | rhythmic redox regulation reported | kidney, mucosa, tumor | may protect normal tissue but reduce tumor kill | hypothesis-generating |
-| p53–PUMA/BAX | apoptosis after DNA damage | clock-modulated DDR possible | kidney, mucosa, tumor | timing may alter apoptotic threshold | plausible |
-| mucosal cell-cycle regulators | epithelial vulnerability | rhythmic proliferation | oral/GI mucosa | low-proliferation window may reduce mucositis | moderate |
-| inflammatory mediators | tissue injury amplification | immune rhythms | kidney, mucosa | timing may alter inflammatory toxicity | emerging |
-
----
-
-# Table 3 Blueprint
-
-## Title
-
-**Clinical and preclinical evidence for cisplatin chronotherapy relevant to OSCC/HNSCC**
-
-| Evidence type | Model/population | Intervention | Main finding | Limitation | Relevance |
-|---|---|---|---|---|---|
-| OSCC crossover pilot | OSCC receiving DCF | daytime vs evening cisplatin | reduced severe nausea/vomiting | very small sample | direct but preliminary |
-| NPC phase II RCT | locally advanced NPC | chronomodulated cisplatin vs constant delivery | reduced nausea, vomiting, mucositis | NPC is not OSCC; survival not powered | supports mucosal/GI endpoint |
-| Mouse tumor model | non-HNSCC model | ZT-based cisplatin timing | timing affects toxicity/repair | model mismatch | mechanistic support |
-| Clock-disruption model | tumor-bearing mice | normal rhythm vs jet-lag | disruption abolishes timing benefit | preclinical | supports circadian monitoring |
-| Rest-activity rhythm studies | cancer cohorts | actigraphy/rhythm assessment | rhythm disruption linked to outcomes | not cisplatin-specific | supports rhythm integrity as biomarker |
-
----
-
-# 資料收集計畫
+# Data Collection Plan
 
 ## Literature bucket 1: OSCC/HNSCC cisplatin clinical use
 
@@ -988,6 +876,9 @@ Endpoints：
 - postoperative chemoradiotherapy cisplatin extranodal extension positive margin
 - induction TPF oral cancer cisplatin
 - definitive chemoradiotherapy unresectable oral cancer cisplatin
+- NCCN head and neck cisplatin chemoradiotherapy
+- ESMO head and neck cisplatin chemoradiotherapy
+- ASCO head and neck cisplatin guideline
 
 ### Data to extract
 
@@ -1013,6 +904,8 @@ Endpoints：
 - cisplatin peripheral neuropathy dorsal root ganglion mitochondria
 - cisplatin nausea vomiting serotonin NK1
 - cisplatin oxidative stress inflammation apoptosis
+- cisplatin renal tubular injury mitochondrial dysfunction
+- cisplatin oral mucositis inflammatory pathway
 
 ### Data to extract
 
@@ -1040,6 +933,8 @@ Endpoints：
 - mucosal proliferation circadian chemotherapy
 - chronopharmacology cisplatin transporter
 - circadian DNA damage response chemotherapy
+- PER CRY cisplatin chronotherapy
+- circadian clock chemotherapy toxicity
 
 ### Data to extract
 
@@ -1065,6 +960,8 @@ Endpoints：
 - chronochemotherapy cisplatin mucositis
 - cisplatin timing nausea vomiting
 - cisplatin circadian toxicity clinical trial
+- docetaxel cisplatin fluorouracil dosing time oral cancer
+- cisplatin chronotherapy phase II trial
 
 ### Data to extract
 
@@ -1090,6 +987,8 @@ Endpoints：
 - dim light melatonin onset cancer chronotherapy
 - wearable circadian monitoring oncology
 - chronotype chemotherapy toxicity
+- circadian disruption cancer treatment toxicity
+- dexamethasone circadian rhythm chemotherapy
 
 ### Data to extract
 
@@ -1108,23 +1007,23 @@ Endpoints：
 
 ## 可以安全主張
 
-- Cisplatin 在 OSCC/HNSCC 中仍然重要。
-- Cisplatin toxicities 具有器官特異性，且可由機制解釋。
-- XPA/NER 提供 circadian biology 與 cisplatin DNA repair 之間合理的機制連結。
-- OCT2 與 renal/cochlear cisplatin accumulation 相關。
-- BMAL1 可能在 cisplatin response 中具有 tissue-specific effects。
-- 現有 chronotherapy 證據屬於 hypothesis-generating。
-- Toxicity reduction 比 survival benefit 更適合作為近期 endpoint。
-- Future trials 應考慮 chronotype 與 circadian integrity。
+- Cisplatin remains important in OSCC/HNSCC。
+- Cisplatin toxicities are organ-specific and mechanistically explainable。
+- XPA/NER provides a plausible mechanistic link between circadian biology and cisplatin DNA repair。
+- OCT2 is relevant to renal and cochlear cisplatin accumulation。
+- BMAL1 may have tissue-specific effects in cisplatin response。
+- Existing chronotherapy evidence is hypothesis-generating。
+- Toxicity reduction is a more defensible endpoint than survival benefit。
+- Future trials should consider chronotype and circadian integrity。
 
 ## 應避免主張
 
-- Evening cisplatin 對所有人都最佳。
-- Cisplatin chronotherapy 已可用於 routine clinical practice。
-- Chronotherapy 可改善 OSCC/HNSCC survival。
-- OSCC tumor XPA rhythm 已被證實。
-- 沒有證據時，將醫院或國家特定 cisplatin practice 普遍化。
-- Chronotherapy 會同等降低所有 cisplatin toxicities。
+- Evening cisplatin is universally optimal。
+- Cisplatin chronotherapy is ready for routine clinical use。
+- Chronotherapy improves survival in OSCC/HNSCC。
+- OSCC tumor XPA rhythm is already proven。
+- Hospital or country-specific cisplatin practice can be generalized without evidence。
+- Chronotherapy will reduce all cisplatin toxicities equally。
 
 ---
 
@@ -1134,11 +1033,11 @@ Endpoints：
 
 在正式投稿完整 manuscript 前，先寄一封簡短 presubmission inquiry 給 **Oral Oncology**。
 
-## 建議 inquiry text
+## Proposed inquiry text
 
 Dear Editor,
 
-We are preparing a focused review entitled **“Cisplatin Timing in Oral and Head-and-Neck Cancer: Organ-Specific Toxicity Mechanisms, Clinical Delivery Constraints, and the Rationale for Chronotherapy.”** The manuscript critically evaluates cisplatin toxicity in OSCC/HNSCC as an organ-specific and potentially time-dependent biological problem. It integrates current cisplatin treatment pathways, mechanisms of nephrotoxicity, ototoxicity, mucositis, and neuropathy, circadian-regulated molecular nodes including XPA/NER, OCT2, BMAL1, and mucosal proliferation, and the limited clinical evidence for cisplatin chronotherapy in OSCC/NPC. The article concludes by proposing a chronotype-aware trial framework focused on toxicity reduction rather than immediate clinical implementation.
+We are preparing a focused review entitled **“Cisplatin Timing in Oral and Head-and-Neck Cancer: Organ-Specific Toxicity Mechanisms, Clinical Delivery Constraints, and the Rationale for Chronotherapy.”** The manuscript critically evaluates cisplatin toxicity in OSCC/HNSCC as an organ-specific and potentially time-dependent biological problem. It integrates current cisplatin treatment pathways, mechanisms of nephrotoxicity, ototoxicity, mucositis, nausea/vomiting, and neuropathy, circadian-regulated molecular nodes including XPA/NER, OCT2, BMAL1/ARNTL, redox regulation, and mucosal proliferation, and the limited clinical evidence for cisplatin chronotherapy in OSCC/NPC. The article concludes by proposing a chronotype-aware trial framework focused on toxicity reduction rather than immediate clinical implementation.
 
 The planned manuscript will be approximately 4,500–5,000 words, with 2 figures, 3 tables, and fewer than 120 references. We believe it fits the journal’s scope as a topical and critical review relevant to head-and-neck oncology practice and treatment optimisation.
 
@@ -1157,27 +1056,27 @@ Sincerely,
 
 ## Step 2
 
-先完成三個核心表格：
+蒐集文獻並完成三個核心表格：
 
-1. Cisplatin treatment pathways and timing constraints。
+1. Organ-specific mechanisms of cisplatin toxicity。
 2. Circadian molecular nodes。
 3. Chronotherapy evidence。
 
 ## Step 3
 
-重寫 organ-specific toxicity section。
+撰寫 organ-specific toxicity section。
 
 這應成為最強的機制章節。
 
 ## Step 4
 
-壓縮 cisplatin chemistry and DNA damage section。
+撰寫並壓縮 cisplatin chemistry and DNA damage section。
 
 保留實用內容，不要寫成完整教科書。
 
 ## Step 5
 
-撰寫 clinical pathway section。
+撰寫 clinical pathway and timing-constraints section。
 
 使用 treatment context，而不是 country-by-country description。
 
@@ -1212,18 +1111,18 @@ Sincerely,
 
 ---
 
-# 最終 Manuscript Skeleton
+# Final Manuscript Skeleton
 
 ## Abstract
 
-[全文完成後再寫。]
+全文完成後再寫。
 
 ## 1. Introduction: Cisplatin toxicity as a biological-time problem in OSCC/HNSCC
 
-- Cisplatin 是 OSCC/HNSCC 治療核心。
-- Toxicity 限制 treatment completion。
+- Cisplatin is central in OSCC/HNSCC。
+- Toxicity limits treatment completion。
 - Current protocols are dose- and cycle-based。
-- Biological timing 很少被考慮。
+- Biological timing is rarely considered。
 - Thesis statement。
 
 ## 2. From platinum chemistry to DNA damage: why cisplatin creates a timing-sensitive injury problem
@@ -1296,4 +1195,4 @@ Sincerely,
 
 # 一句話總結文章定位
 
-**本篇 review 將 cisplatin chronotherapy 定位為一個具有機制基礎、需要考慮臨床流程、並可透過 biomarker 測試的 OSCC/HNSCC 毒性降低策略，而不是一個已經可以立即臨床導入的治療方式。**
+This review positions cisplatin chronotherapy not as a ready-to-use clinical intervention, but as a mechanistically justified, workflow-sensitive, and biomarker-testable strategy to reduce toxicity in OSCC/HNSCC.
