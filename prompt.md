@@ -230,91 +230,146 @@ End this section by linking basic mechanism to the main thesis:
 
 ## Proposed title
 
-**Where cisplatin enters the OSCC/HNSCC treatment pathway: clinical decision points and timing constraints**
+**Cisplatin entry points in OSCC/HNSCC treatment pathways: staging, treatment intent, international practice context, and timing constraints**
 
 ## Target length
 
-700–900 words.
+750–950 words.
 
 ## Purpose
 
-This section should not be a country-by-country guideline review. Instead, it should explain where cisplatin is used in OSCC/HNSCC and why these treatment settings create both opportunities and barriers for chronotherapy.
+This section should explain where cisplatin enters OSCC/HNSCC treatment pathways and why these entry points matter for future chronotherapy trials. It should not be written as a country-by-country guideline comparison. However, the section should still acknowledge that clinicians need to understand how cisplatin is actually used across major practice contexts, because treatment schedules, supportive-care capacity, and institutional workflow determine whether chronotherapy is feasible.
+
+The goal is therefore not to catalogue every national guideline, but to synthesize the clinically relevant patterns of cisplatin use that affect timing: surgery-first management in oral cavity cancer, postoperative high-risk chemoradiotherapy, definitive concurrent chemoradiotherapy, induction chemotherapy, recurrent/metastatic systemic therapy, weekly versus three-weekly schedules, and practical delivery constraints.
 
 ## Core framing
 
-OSCC staging is internationally standardized, but cisplatin use is not determined by stage alone. It depends on treatment intent, resectability, pathological risk features, performance status, renal function, hearing status, neuropathy risk, and institutional workflow.
+OSCC staging provides the anatomical and prognostic framework, but cisplatin use is not determined by stage alone. Cisplatin administration depends on treatment intent, resectability, pathological risk features, patient fitness, cisplatin eligibility, renal function, hearing status, neuropathy risk, radiotherapy coordination, supportive-care capacity, and institutional workflow.
 
 ## Key argument
 
-> The most useful way to discuss cisplatin use is not by country, but by clinical decision point.
+> The purpose of this section is not to compare guidelines country by country, but to understand the clinical contexts in which cisplatin is used and how real-world practice patterns shape the feasibility of chronotype-aware cisplatin scheduling.
 
 ## Subsections
 
-### 3.1 OSCC staging and treatment intent
+### 3.1 OSCC staging as the anatomical framework, not the cisplatin rulebook
 
-Explain:
+Briefly explain that OSCC staging, including tumor extent, nodal status, and depth of invasion, structures treatment planning. However, cisplatin administration is not dictated by stage alone. Instead, it is determined by treatment intent, resectability, pathological risk features, and patient fitness.
 
-- Early-stage OSCC is often treated with surgery or radiotherapy.
+Key points:
+
+- Early-stage OSCC is often managed primarily with local therapy, especially surgery with appropriate neck management.
 - Locally advanced OSCC/HNSCC often requires multimodality treatment.
-- Cisplatin enters when systemic radiosensitisation, postoperative intensification, induction treatment, or systemic disease control is required.
-- Cisplatin is therefore not tied to one stage alone.
+- Cisplatin enters the pathway when systemic radiosensitisation, postoperative intensification, induction treatment, or systemic disease control is clinically required.
+- Staging should be used to frame the treatment pathway, not to imply that cisplatin is automatically used at a specific stage.
 
-### Suggested wording
+Suggested wording:
 
-> Because OSCC staging is internationally standardized, it provides a useful entry point for discussing cisplatin use. However, cisplatin administration is not dictated by stage alone. Rather, it is determined by treatment intent and risk features: definitive chemoradiotherapy in unresectable or organ-preservation contexts, postoperative chemoradiotherapy for high-risk pathological disease, induction chemotherapy in selected locally advanced cases, and systemic therapy for recurrent or metastatic disease.
+> OSCC staging provides the anatomical and prognostic framework for treatment planning, particularly through tumor extent, nodal status, and depth of invasion. However, cisplatin use is not determined by stage alone. Rather, cisplatin enters the pathway when systemic radiosensitisation, postoperative risk intensification, induction treatment, or systemic disease control is clinically required.
 
-### 3.2 Definitive concurrent chemoradiotherapy
+### 3.2 Surgery-first paradigm in oral cavity cancer and the entry points of cisplatin
 
-Cover:
+Explain that resectable oral cavity cancer is commonly managed with surgery as the principal curative modality. Cisplatin becomes relevant when treatment is intensified beyond local therapy.
 
-- Cisplatin acts as systemic therapy and radiosensitiser.
-- Timing is constrained by daily radiotherapy schedules.
-- Hydration, antiemetics, infusion-unit chair time, and renal monitoring matter.
-- This setting is relevant for chronotherapy because treatment is scheduled and repeatable.
+Key cisplatin entry points:
 
-### 3.3 Postoperative high-risk chemoradiotherapy
+- Postoperative high-risk chemoradiotherapy.
+- Definitive concurrent chemoradiotherapy for unresectable, medically inoperable, or selected non-surgical settings.
+- Selected induction chemotherapy, often in multi-drug regimens such as TPF/DCF-like approaches.
+- Recurrent/metastatic systemic therapy in selected patients.
 
-Cover:
+Suggested wording:
 
-- Cisplatin may be used after surgery when high-risk pathological features are present.
-- Patients may have postoperative nutritional compromise, wound recovery, pain, altered sleep, feeding tube use, and repeated hospital visits.
-- Circadian disruption may already be present in this setting.
+> In resectable oral cavity cancer, surgery commonly remains the principal curative modality. Cisplatin therefore most often becomes relevant when treatment is intensified beyond local therapy, particularly in postoperative high-risk chemoradiotherapy, definitive chemoradiotherapy, selected induction chemotherapy, or platinum-containing systemic therapy for recurrent or metastatic disease.
 
-### 3.4 Induction chemotherapy
+### 3.3 How others use cisplatin: practice patterns to understand, not a guideline inventory
 
-Cover:
+This subsection should acknowledge that international and institutional differences matter, but they should be framed around treatment patterns that influence chronotherapy feasibility rather than around a rigid country-by-country comparison.
 
-- Cisplatin may be used as part of TPF/DCF-like regimens in selected locally advanced cases.
-- Multi-drug regimens complicate chronotherapy because docetaxel and 5-FU also have pharmacokinetic and toxicity profiles.
-- Cisplatin timing cannot be optimized in isolation.
+Discuss practice patterns such as:
 
-### 3.5 Recurrent/metastatic systemic therapy
+- Preference or acceptability of high-dose three-weekly cisplatin versus weekly lower-dose cisplatin.
+- Use of cisplatin in postoperative high-risk chemoradiotherapy.
+- Use of cisplatin in definitive concurrent chemoradiotherapy.
+- Use of induction TPF/DCF-like chemotherapy in selected locally advanced cases.
+- Cisplatin eligibility thresholds and alternative regimens.
+- Differences in outpatient versus inpatient chemotherapy delivery.
+- Supportive-care capacity, including hydration, antiemetics, renal/electrolyte monitoring, and nutrition support.
 
-Cover:
+Important caution:
 
-- Cisplatin or platinum-containing therapy may be used in selected recurrent/metastatic patients.
-- Regimens are heterogeneous.
-- Chronotherapy may be harder to standardize in this setting.
+Do not write unsupported claims such as “country X usually uses cisplatin this way” unless supported by a guideline, clinical trial, national protocol, institutional protocol, or peer-reviewed cohort. When evidence is incomplete, use conservative language such as “practice varies across regions and institutions” and focus on the operational implications.
 
-### 3.6 Institutional variation as a chronotherapy barrier
+Suggested wording:
 
-Discuss variation as logistics, not as anecdotal national practice.
+> Although major treatment principles are broadly shared across head-and-neck oncology, cisplatin delivery varies across trials, regions, and institutions. For chronotherapy, the most relevant differences are not national labels themselves, but schedule selection, cisplatin eligibility, hydration requirements, antiemetic timing, radiotherapy coordination, and the feasibility of shifting infusion time.
 
-Important sources of variation:
+### 3.4 Clinical decision points for cisplatin use
 
-- q3-week high-dose cisplatin vs weekly cisplatin.
-- Inpatient vs outpatient administration.
+Use a concise table or structured paragraph to summarize where cisplatin enters the treatment pathway.
+
+Suggested table:
+
+| Clinical decision point | When cisplatin enters | Typical rationale | Chronotherapy relevance |
+|---|---|---|---|
+| Definitive concurrent chemoradiotherapy | Unresectable, medically inoperable, or selected non-surgical OSCC/HNSCC settings | Radiosensitisation and systemic cytotoxic effect | Scheduled repeated treatment; constrained by radiotherapy appointments, hydration, and infusion logistics |
+| Postoperative high-risk chemoradiotherapy | Positive margin, extranodal extension, advanced nodal disease, or other high-risk pathological features | Adjuvant intensification to reduce recurrence risk | Toxicity and treatment completion are clinically important; mucositis and nutritional compromise are major concerns |
+| Induction chemotherapy | Selected locally advanced cases, often with TPF/DCF-like regimens | Tumor reduction, response selection, or distant-control strategy | Timing is complex because cisplatin is combined with docetaxel and 5-FU |
+| Recurrent/metastatic systemic therapy | Platinum-containing systemic therapy in selected patients | Disease control or palliation | Regimen heterogeneity makes timing standardization difficult |
+| Cisplatin-ineligible or alternative-regimen setting | Renal dysfunction, hearing loss, neuropathy, frailty, poor performance status, or other contraindications | Alternative systemic regimens considered | Defines the toxicity boundary that chronotherapy aims to shift, but chronotherapy is not yet proven to convert ineligible patients into eligible patients |
+
+### 3.5 Existing schedule variation: weekly versus three-weekly cisplatin
+
+This subsection should connect clinical practice variation to the chronotherapy question.
+
+Key points:
+
+- High-dose three-weekly cisplatin has historically served as a reference concurrent chemoradiotherapy regimen in many HNSCC settings.
+- Weekly lower-dose cisplatin is widely used in some clinical contexts, but weekly regimens are not equivalent across dose levels, disease settings, and trial designs.
+- Cumulative cisplatin dose, dose intensity, treatment completion, and toxicity endpoints are clinically relevant.
+- Weekly cisplatin may be more logistically feasible for repeated timing interventions, whereas high-dose three-weekly cisplatin may have greater toxicity stakes but greater hydration and monitoring burdens.
+- Avoid claiming that weekly cisplatin is universally superior or that high-dose cisplatin is always preferable; interpret evidence by treatment setting and dose.
+
+Suggested wording:
+
+> Existing cisplatin schedules already vary across trials and institutions, particularly between high-dose three-weekly administration and weekly lower-dose regimens. This variation is clinically important for chronotherapy because dosing interval, infusion duration, hydration requirements, cumulative dose completion, and toxicity monitoring all determine whether a timing intervention is feasible.
+
+### 3.6 Delivery logistics and the biological-time blind protocol
+
+This subsection should explicitly connect current treatment delivery to the rationale for chronotherapy.
+
+Discuss:
+
+- Radiotherapy appointment time.
+- Infusion chair availability.
+- Nursing capacity.
 - Hydration duration.
 - Antiemetic timing.
 - Dexamethasone timing.
-- Radiotherapy appointment time.
-- Nursing and infusion-suite capacity.
-- Renal, electrolyte, auditory, and neurological monitoring.
-- Patient transportation and evening infusion feasibility.
+- Renal and electrolyte monitoring.
+- Outpatient transportation.
+- Inpatient light exposure and sleep disruption.
+- Nutrition, tube feeding, pain, opioids, and sleep fragmentation.
 
-## Suggested closing sentence
+Suggested closing sentence:
 
-> Current cisplatin protocols are largely biological-time blind: they specify dose, cycle, hydration, and monitoring, but rarely define when cisplatin should be administered relative to the patient’s endogenous circadian phase.
+> Current cisplatin protocols are operationally precise but chronobiologically silent: they define dose, cycle, hydration, antiemetics, renal monitoring, and radiotherapy coordination, but rarely define administration time relative to the patient’s endogenous circadian phase.
+
+## What to avoid in this section
+
+- Do not turn the section into a full guideline review.
+- Do not create a country-by-country table unless high-quality evidence is available for every included country.
+- Do not make broad claims about national practice without guideline, trial, registry, or institutional protocol support.
+- Do not imply that cisplatin is automatically used based on stage alone.
+- Do not claim that schedule variation itself proves chronotherapy benefit.
+
+## Suggested display item
+
+Consider adding a table titled:
+
+**Cisplatin entry points and timing constraints in OSCC/HNSCC treatment pathways**
+
+This table can summarize treatment setting, clinical trigger, cisplatin role, timing constraints, and chronotherapy feasibility. If the manuscript must remain limited to 5 display items, this content can be integrated into the text instead of a standalone table.
 
 ---
 
@@ -326,15 +381,15 @@ Important sources of variation:
 
 ## Target length
 
-1,200–1,400 words.
+1,250–1,450 words.
 
 ## Purpose
 
-This should be one of the strongest sections. The goal is to move beyond “cisplatin causes nephrotoxicity, ototoxicity, and mucositis” and explain why these toxicities occur.
+This should be one of the strongest sections. The goal is to move beyond “cisplatin causes nephrotoxicity, ototoxicity, and mucositis” and explain why these toxicities occur. This section should also prepare the transition to circadian pharmacology by showing that cisplatin toxicities depend on biological processes that may vary across time.
 
 ## Core thesis
 
-> Cisplatin toxicity is not a nonspecific adverse-effect burden. It reflects tissue-specific interactions among platinum uptake, DNA adduct formation, oxidative stress, mitochondrial dysfunction, inflammation, repair capacity, and cell-renewal kinetics.
+> Cisplatin toxicity is not a nonspecific adverse-effect burden. It reflects tissue-specific interactions among platinum uptake, DNA adduct formation, oxidative stress, mitochondrial dysfunction, inflammation, repair capacity, and cell-renewal kinetics. These injury determinants provide the biological substrate through which circadian timing may modulate toxicity.
 
 ## Subsections
 
@@ -418,30 +473,42 @@ Key points:
 - Bone marrow progenitor proliferation may have circadian variation.
 - Include briefly.
 
+### 4.7 From organ-specific toxicity to timing-sensitive vulnerability
+
+This subsection should serve as the conceptual bridge between the toxicity mechanism section and the circadian timing-gate section.
+
+The key argument is that the organ-specific toxicities described above are mediated by biological processes that may vary across circadian time. Cisplatin-induced injury depends on platinum uptake, DNA adduct burden, DNA repair capacity, redox buffering, mitochondrial injury, inflammatory amplification, cell-cycle activity, and apoptotic threshold. If any of these processes vary by biological time, then the same dose of cisplatin could produce different toxicity profiles depending on when it is administered.
+
+This subsection should not introduce detailed clock biology. Instead, it should end by setting up Section 5.
+
+Suggested transition sentence:
+
+> The organ-specific toxicities described above create the biological substrate for cisplatin chronotherapy. If platinum uptake, DNA repair, redox buffering, inflammatory amplification, mucosal proliferation, and apoptotic threshold vary across circadian time, then the same cisplatin exposure may produce different degrees of normal-tissue injury depending on when it is administered. The next section therefore examines the molecular timing gates that could link cisplatin exposure to phase-dependent toxicity.
+
 ---
 
 # Table 1
 
 ## Title
 
-**Organ-specific mechanisms of cisplatin toxicity and chronotherapy-relevant vulnerabilities**
+**Organ-specific mechanisms of cisplatin toxicity and potential timing gates**
 
-| Toxicity | Main target tissue/cell | Cisplatin access route | Dominant injury mechanisms | Circadian-relevant process | Clinical relevance |
+| Toxicity | Main target tissue/cell | Cisplatin access route | Dominant injury mechanisms | Potential timing gate | Clinical relevance |
 |---|---|---|---|---|---|
-| Nephrotoxicity | Proximal tubular cells | OCT2, CTR1 | DNA damage, ROS, mitochondrial injury, p53–PUMA/BAX apoptosis, inflammation | OCT2 rhythm, BMAL1, XPA/NER | Dose-limiting toxicity |
-| Ototoxicity | Cochlear outer hair cells, stria vascularis | OCT2-related accumulation | ROS, mitochondrial apoptosis, irreversible hair-cell injury | OCT2 rhythm plausible but under-studied | Irreversible hearing loss |
-| Mucositis | Oral/GI mucosal epithelium | systemic exposure plus RT synergy | DNA damage, epithelial turnover failure, ROS, inflammation, barrier breakdown | mucosal proliferation rhythm, clock-controlled cell cycle | Pain, feeding difficulty, treatment breaks |
-| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility and neuroendocrine rhythms | Acute toxicity, hydration and nutrition impact |
-| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | weak evidence; possible redox/mitochondrial clock link | Long-term morbidity |
-| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic proliferation rhythm | Combination-regimen toxicity |
+| Nephrotoxicity | Proximal tubular cells | OCT2, CTR1 | DNA damage, ROS, mitochondrial injury, p53–PUMA/BAX apoptosis, inflammation | OCT2-mediated uptake, XPA/NER repair, BMAL1-linked renal injury | Dose-limiting toxicity |
+| Ototoxicity | Cochlear outer hair cells, stria vascularis | OCT2-related accumulation | ROS, mitochondrial apoptosis, irreversible hair-cell injury | OCT2-mediated cochlear uptake, oxidative stress rhythms | Irreversible hearing loss |
+| Mucositis | Oral/GI mucosal epithelium | systemic exposure plus RT synergy | DNA damage, epithelial turnover failure, ROS, inflammation, barrier breakdown | mucosal proliferation rhythm, epithelial repair timing, clock-controlled cell cycle | Pain, feeding difficulty, treatment breaks |
+| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility, enterochromaffin serotonin release, neuroendocrine rhythms | Acute toxicity, hydration and nutrition impact |
+| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | mitochondrial redox state, axonal repair capacity | Long-term morbidity |
+| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic progenitor cycling | Combination-regimen toxicity |
 
 ---
 
-# Section 5. Circadian regulation of cisplatin pharmacology
+# Section 5. Circadian timing gates in cisplatin uptake, repair, redox control, and tissue vulnerability
 
 ## Proposed title
 
-**Circadian molecular nodes linking cisplatin exposure to toxicity and repair**
+**Circadian timing gates in cisplatin uptake, repair, redox control, and tissue vulnerability**
 
 ## Target length
 
@@ -449,15 +516,19 @@ Key points:
 
 ## Purpose
 
-This section should synthesize proteins and pathways that connect circadian biology to cisplatin toxicity.
+This section should not be written as a generic circadian biology section. It should directly explain how the toxicity mechanisms described in Section 4 may become timing-sensitive.
 
 ## Main argument
 
-> Cisplatin chronotherapy is biologically plausible because multiple determinants of cisplatin toxicity and repair are circadian-regulated or clock-associated.
+> Cisplatin chronotherapy is biologically plausible because several determinants of cisplatin toxicity — platinum uptake, DNA repair, redox buffering, mucosal proliferation, inflammation, mitochondrial injury, and apoptotic threshold — are circadian-regulated or clock-associated.
 
-## Molecular nodes to include
+## Suggested opening paragraph
 
-### 5.1 XPA / NER
+> The preceding section described cisplatin toxicity as a set of organ-specific injury processes. For chronotherapy, the critical question is whether these processes remain constant throughout the day or vary according to circadian phase. Several determinants of cisplatin injury — including nucleotide excision repair, transporter-mediated platinum uptake, glutathione-dependent detoxification, inflammatory tone, mucosal cell-cycle activity, and mitochondrial apoptotic threshold — are under direct or indirect circadian control. These mechanisms provide molecular timing gates through which cisplatin exposure may translate into different toxicity profiles at different biological times.
+
+## Molecular timing gates to include
+
+### 5.1 XPA / NER as a DNA repair timing gate
 
 This should be the central node.
 
@@ -469,7 +540,7 @@ Cover:
 - Normal tissue repair may be higher at specific circadian phases.
 - Key knowledge gap: XPA rhythm has not been adequately demonstrated in OSCC tumor tissue or oral mucosa.
 
-### 5.2 OCT2 / SLC22A2
+### 5.2 OCT2 / SLC22A2 as a platinum uptake timing gate
 
 Cover:
 
@@ -478,17 +549,7 @@ Cover:
 - Rhythmic expression or clock-linked regulation could create timing-dependent platinum uptake.
 - More direct evidence in HNSCC-relevant settings is needed.
 
-### 5.3 BMAL1 / ARNTL
-
-Cover:
-
-- Core clock transcription factor.
-- Tissue-specific effects.
-- In kidney, BMAL1 may facilitate cisplatin injury.
-- In nasopharyngeal carcinoma, ARNTL silencing may contribute to cisplatin resistance.
-- This creates a “BMAL1 paradox”: clock biology may simultaneously shape host toxicity and tumor response.
-
-### 5.4 GSH / redox metabolism
+### 5.3 GSH / redox buffering and mitochondrial injury rhythms
 
 Cover:
 
@@ -496,23 +557,36 @@ Cover:
 - GSH biosynthesis and redox capacity may be rhythmic.
 - Increased detoxification in normal tissue could reduce toxicity.
 - However, increased detoxification in tumors could reduce efficacy.
+- Redox and mitochondrial vulnerability may be relevant to nephrotoxicity, mucositis, ototoxicity, and neuropathy.
 - Evidence in OSCC/HNSCC remains incomplete.
 
-### 5.5 Mucosal proliferation and cell cycle timing
+### 5.4 Mucosal proliferation and epithelial repair rhythms
 
 Cover:
 
 - Oral/GI mucosa has rhythmic proliferation.
 - Timing cisplatin when mucosal progenitors are less proliferative may reduce mucositis.
+- Epithelial repair timing may also affect severity and duration of mucosal injury.
 - This is clinically relevant because mucositis is a major toxicity endpoint in HNSCC.
 
-### 5.6 PER/CRY and clock integrity
+### 5.5 BMAL1 / ARNTL and tissue-specific clock effects
+
+Cover:
+
+- BMAL1/ARNTL is a core clock transcription factor.
+- Tissue-specific effects should be emphasized.
+- In kidney, BMAL1 may facilitate or modify cisplatin injury depending on model context.
+- In nasopharyngeal carcinoma, ARNTL silencing may contribute to cisplatin resistance.
+- This creates a “BMAL1 paradox”: clock biology may simultaneously shape host toxicity and tumor response.
+
+### 5.6 PER/CRY and circadian integrity as a prerequisite for timing interventions
 
 Cover:
 
 - PER/CRY are required for robust clock function.
 - Clock disruption may abolish chronotherapy benefit.
-- Hospitalisation, artificial light, dexamethasone, pain, opioids, and feeding schedule may disrupt patient rhythms.
+- Hospitalisation, artificial light, dexamethasone, pain, opioids, tube feeding, and sleep fragmentation may disrupt patient rhythms.
+- This supports chronotype-aware or rhythm-aware scheduling rather than fixed clock-time dosing.
 
 ---
 
@@ -520,20 +594,20 @@ Cover:
 
 ## Title
 
-**Circadian-relevant molecular nodes in cisplatin response**
+**Circadian timing gates relevant to cisplatin toxicity and response**
 
-| Molecule/pathway | Function in cisplatin response | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
+| Timing gate / molecule | Function in cisplatin response | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
 |---|---|---|---|---|---|
-| XPA | NER damage verification and repair of platinum-DNA adducts | Strong oscillation evidence in non-HNSCC tissues | kidney, liver, blood; OSCC mucosa/tumor unknown | Higher normal-tissue repair may reduce toxicity | Strong mechanism; HNSCC-specific gap |
-| ERCC1–XPF | NER incision and adduct excision | Indirectly linked through NER timing | tumor and normal tissues | Tumor repair may reduce cisplatin efficacy | Moderate |
+| XPA / NER | Damage verification and repair of platinum-DNA adducts | Strong oscillation evidence in non-HNSCC tissues | kidney, liver, blood; OSCC mucosa/tumor unknown | Higher normal-tissue repair may reduce toxicity | Strong mechanism; HNSCC-specific gap |
+| ERCC1–XPF / NER incision | NER incision and adduct excision | Indirectly linked through NER timing | tumor and normal tissues | Tumor repair may reduce cisplatin efficacy | Moderate |
 | OCT2 / SLC22A2 | Cisplatin uptake in kidney and cochlea | Clock-linked regulation suggested | kidney, cochlea | Lower uptake phase may reduce nephro/ototoxicity | Strong transporter biology; timing less complete |
 | CTR1 / SLC31A1 | Cisplatin influx in tumor and normal cells | Circadian link unclear | tumor cells, normal tissues | Important for efficacy/resistance, less established for timing | Low–moderate |
+| GSH / GCLC | Detoxification of reactive platinum species | Rhythmic redox regulation reported in some systems | kidney, mucosa, tumor | May reduce normal tissue injury but also tumor kill | Hypothesis-generating |
+| Mucosal cell-cycle regulators | Determine epithelial vulnerability and repair | GI/mucosal proliferation is rhythmic | oral/GI mucosa | Low-proliferation or high-repair windows may reduce mucositis | Moderate |
 | BMAL1 / ARNTL | Core clock factor; regulates clock-controlled genes | Tissue-specific effects in kidney and NPC | kidney, tumor | May affect both toxicity and tumor sensitivity | Moderate |
 | PER/CRY | Negative clock limb; maintains circadian amplitude | Clock disruption abolishes timing effects in models | host tissues, immune system | Intact rhythm may be prerequisite | Strong preclinical |
-| GSH / GCLC | Detoxification of reactive platinum species | Rhythmic redox regulation reported in some systems | kidney, mucosa, tumor | May reduce normal tissue injury but also tumor kill | Hypothesis-generating |
 | p53–PUMA/BAX | Apoptosis after unrepaired DNA damage | DNA damage response may be clock-modulated | kidney, mucosa, tumor | Timing may change apoptotic threshold | Mechanistically plausible |
-| Mucosal cell-cycle regulators | Determine epithelial vulnerability | GI/mucosal proliferation is rhythmic | oral/GI mucosa | Low-proliferation window may reduce mucositis | Moderate |
-| Inflammatory mediators | Amplify organ injury | Immune/inflammatory rhythms exist | kidney, mucosa | Timing may modulate inflammatory injury | Emerging |
+| Inflammatory mediators | Amplify organ injury | Immune/inflammatory rhythms exist | kidney, mucosa | Timing may modulate inflammatory toxicity | Emerging |
 
 ---
 

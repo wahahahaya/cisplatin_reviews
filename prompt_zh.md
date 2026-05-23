@@ -230,91 +230,146 @@ OSCC/HNSCC 中的 cisplatin toxicity 不應只被視為一種 dose-dependent adv
 
 ## 建議標題
 
-**Where cisplatin enters the OSCC/HNSCC treatment pathway: clinical decision points and timing constraints**
+**Cisplatin entry points in OSCC/HNSCC treatment pathways: staging, treatment intent, international practice context, and timing constraints**
 
 ## 目標長度
 
-700–900 words。
+750–950 words。
 
 ## 目的
 
-本節不應是各國 guideline 的逐一比較。它應說明 cisplatin 在 OSCC/HNSCC 中的使用位置，以及這些治療情境為何同時形成 chronotherapy 的機會與障礙。
+本節應說明 cisplatin 在 OSCC/HNSCC 治療流程中的進入點，以及這些進入點為什麼會影響未來 chronotherapy trial 的設計。本節不應寫成各國 guideline 的逐一比較；但是，也不能完全不管其他地區或醫院如何實際使用 cisplatin。臨床上要評估 chronotherapy 是否可行，必須理解現行 cisplatin 使用情境、給藥 schedule、supportive-care capacity 與 institutional workflow。
+
+因此，本節的目標不是完整盤點每個國家的 guideline，而是整理會影響 cisplatin timing 的臨床模式：口腔癌 surgery-first 的治療邏輯、postoperative high-risk chemoradiotherapy、definitive concurrent chemoradiotherapy、induction chemotherapy、recurrent/metastatic systemic therapy、weekly versus three-weekly schedules，以及實際給藥流程限制。
 
 ## 核心定位
 
-OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決定。它取決於 treatment intent、resectability、pathological risk features、performance status、renal function、hearing status、neuropathy risk 與 institutional workflow。
+OSCC staging 提供解剖學與預後框架，但 cisplatin use 並非只由 stage 決定。Cisplatin 是否使用，取決於 treatment intent、resectability、pathological risk features、patient fitness、cisplatin eligibility、renal function、hearing status、neuropathy risk、radiotherapy coordination、supportive-care capacity 與 institutional workflow。
 
 ## 核心論點
 
-> The most useful way to discuss cisplatin use is not by country, but by clinical decision point.
+> The purpose of this section is not to compare guidelines country by country, but to understand the clinical contexts in which cisplatin is used and how real-world practice patterns shape the feasibility of chronotype-aware cisplatin scheduling.
 
 ## 小節
 
-### 3.1 OSCC staging and treatment intent
+### 3.1 OSCC staging as the anatomical framework, not the cisplatin rulebook
 
-說明：
+簡短說明 OSCC staging，包括 tumor extent、nodal status 與 depth of invasion，如何構成 treatment planning 的基礎。但是要明確指出，cisplatin administration 不是由 stage alone 決定，而是由 treatment intent、resectability、pathological risk features 與 patient fitness 決定。
 
-- Early-stage OSCC 通常以 surgery 或 radiotherapy 治療。
+重點：
+
+- Early-stage OSCC 通常以 local therapy 為主，尤其是 surgery 加上適當的 neck management。
 - Locally advanced OSCC/HNSCC 通常需要 multimodality treatment。
-- 當需要 systemic radiosensitisation、postoperative intensification、induction treatment 或 systemic disease control 時，cisplatin 會進入治療流程。
-- Cisplatin 因此不只屬於某一個 stage。
+- 當臨床上需要 systemic radiosensitisation、postoperative intensification、induction treatment 或 systemic disease control 時，cisplatin 才會進入治療流程。
+- Staging 應用來理解 treatment pathway，而不是暗示某個 stage 會自動使用 cisplatin。
 
-### 建議寫法
+建議寫法：
 
-> Because OSCC staging is internationally standardized, it provides a useful entry point for discussing cisplatin use. However, cisplatin administration is not dictated by stage alone. Rather, it is determined by treatment intent and risk features: definitive chemoradiotherapy in unresectable or organ-preservation contexts, postoperative chemoradiotherapy for high-risk pathological disease, induction chemotherapy in selected locally advanced cases, and systemic therapy for recurrent or metastatic disease.
+> OSCC staging provides the anatomical and prognostic framework for treatment planning, particularly through tumor extent, nodal status, and depth of invasion. However, cisplatin use is not determined by stage alone. Rather, cisplatin enters the pathway when systemic radiosensitisation, postoperative risk intensification, induction treatment, or systemic disease control is clinically required.
 
-### 3.2 Definitive concurrent chemoradiotherapy
+### 3.2 Surgery-first paradigm in oral cavity cancer and the entry points of cisplatin
 
-涵蓋：
+說明 resectable oral cavity cancer 通常以 surgery 作為主要 curative modality。Cisplatin 通常是在治療需要超越 local therapy、進入 multimodality intensification 時才變得重要。
 
-- Cisplatin 作為 systemic therapy 與 radiosensitiser。
-- 給藥時間受到 daily radiotherapy schedules 限制。
-- Hydration、antiemetics、infusion-unit chair time 與 renal monitoring 都很重要。
-- 這個情境與 chronotherapy 相關，因為治療具排程性且會重複進行。
+Cisplatin 常見進入點：
 
-### 3.3 Postoperative high-risk chemoradiotherapy
+- Postoperative high-risk chemoradiotherapy。
+- Definitive concurrent chemoradiotherapy，用於 unresectable、medically inoperable 或 selected non-surgical settings。
+- Selected induction chemotherapy，通常是 TPF/DCF-like multi-drug regimens。
+- Selected recurrent/metastatic systemic therapy。
 
-涵蓋：
+建議寫法：
 
-- 若術後有 high-risk pathological features，cisplatin 可能會在手術後使用。
-- 病人可能有 postoperative nutritional compromise、wound recovery、pain、altered sleep、feeding tube use 與 repeated hospital visits。
-- Circadian disruption 可能已經存在。
+> In resectable oral cavity cancer, surgery commonly remains the principal curative modality. Cisplatin therefore most often becomes relevant when treatment is intensified beyond local therapy, particularly in postoperative high-risk chemoradiotherapy, definitive chemoradiotherapy, selected induction chemotherapy, or platinum-containing systemic therapy for recurrent or metastatic disease.
 
-### 3.4 Induction chemotherapy
+### 3.3 How others use cisplatin: practice patterns to understand, not a guideline inventory
 
-涵蓋：
+本小節應承認 international and institutional differences 很重要，但應把這些差異整理成會影響 chronotherapy feasibility 的 treatment patterns，而不是做僵硬的 country-by-country comparison。
 
-- Cisplatin 可作為 TPF/DCF-like regimens 的一部分，用於 selected locally advanced cases。
-- 多藥物 regimens 會使 chronotherapy 複雜化，因為 docetaxel 與 5-FU 也有各自的 pharmacokinetic 與 toxicity profiles。
-- Cisplatin timing 不能單獨最佳化。
+可討論的 practice patterns：
 
-### 3.5 Recurrent/metastatic systemic therapy
+- High-dose three-weekly cisplatin 與 weekly lower-dose cisplatin 的偏好或可接受性。
+- Postoperative high-risk chemoradiotherapy 中 cisplatin 的使用。
+- Definitive concurrent chemoradiotherapy 中 cisplatin 的使用。
+- Selected locally advanced cases 中 induction TPF/DCF-like chemotherapy 的使用。
+- Cisplatin eligibility thresholds 與 alternative regimens。
+- Outpatient versus inpatient chemotherapy delivery 的差異。
+- Supportive-care capacity，包括 hydration、antiemetics、renal/electrolyte monitoring 與 nutrition support。
 
-涵蓋：
+重要限制：
 
-- 在 selected recurrent/metastatic patients 中，可能使用 cisplatin 或 platinum-containing therapy。
-- Regimens 異質性高。
-- Chronotherapy 在此情境可能更難標準化。
+不要在缺乏證據時寫出「某國通常怎樣使用 cisplatin」這類主張。除非有 guideline、clinical trial、national protocol、institutional protocol 或 peer-reviewed cohort 支持，否則應使用保守寫法，例如 “practice varies across regions and institutions”，並把重點放在這些差異對 treatment timing 的實務影響。
 
-### 3.6 Institutional variation as a chronotherapy barrier
+建議寫法：
 
-將 variation 討論為 logistics，而不是 anecdotal national practice。
+> Although major treatment principles are broadly shared across head-and-neck oncology, cisplatin delivery varies across trials, regions, and institutions. For chronotherapy, the most relevant differences are not national labels themselves, but schedule selection, cisplatin eligibility, hydration requirements, antiemetic timing, radiotherapy coordination, and the feasibility of shifting infusion time.
 
-重要 variation sources：
+### 3.4 Clinical decision points for cisplatin use
 
-- q3-week high-dose cisplatin vs weekly cisplatin。
-- Inpatient vs outpatient administration。
+用簡潔表格或結構化段落整理 cisplatin 在哪些治療決策點進入 OSCC/HNSCC treatment pathway。
+
+建議表格：
+
+| Clinical decision point | When cisplatin enters | Typical rationale | Chronotherapy relevance |
+|---|---|---|---|
+| Definitive concurrent chemoradiotherapy | Unresectable, medically inoperable, or selected non-surgical OSCC/HNSCC settings | Radiosensitisation and systemic cytotoxic effect | Scheduled repeated treatment; constrained by radiotherapy appointments, hydration, and infusion logistics |
+| Postoperative high-risk chemoradiotherapy | Positive margin, extranodal extension, advanced nodal disease, or other high-risk pathological features | Adjuvant intensification to reduce recurrence risk | Toxicity and treatment completion are clinically important; mucositis and nutritional compromise are major concerns |
+| Induction chemotherapy | Selected locally advanced cases, often with TPF/DCF-like regimens | Tumor reduction, response selection, or distant-control strategy | Timing is complex because cisplatin is combined with docetaxel and 5-FU |
+| Recurrent/metastatic systemic therapy | Platinum-containing systemic therapy in selected patients | Disease control or palliation | Regimen heterogeneity makes timing standardization difficult |
+| Cisplatin-ineligible or alternative-regimen setting | Renal dysfunction, hearing loss, neuropathy, frailty, poor performance status, or other contraindications | Alternative systemic regimens considered | Defines the toxicity boundary that chronotherapy aims to shift, but chronotherapy is not yet proven to convert ineligible patients into eligible patients |
+
+### 3.5 Existing schedule variation: weekly versus three-weekly cisplatin
+
+本小節應把 clinical practice variation 連接到 chronotherapy 問題。
+
+重點：
+
+- High-dose three-weekly cisplatin 在許多 HNSCC concurrent chemoradiotherapy 情境中 historically served as a reference regimen。
+- Weekly lower-dose cisplatin 在部分臨床情境中常見，但不同 weekly dose、disease setting 與 trial design 不能混為一談。
+- Cumulative cisplatin dose、dose intensity、treatment completion 與 toxicity endpoints 都具有臨床重要性。
+- Weekly cisplatin 可能比較容易進行 repeated timing intervention；three-weekly high-dose cisplatin 可能有較大的 toxicity stakes，但 hydration 與 monitoring burden 也更重。
+- 不要主張 weekly cisplatin universally superior，也不要主張 high-dose cisplatin always preferable；應依 treatment setting 與 dose 解讀證據。
+
+建議寫法：
+
+> Existing cisplatin schedules already vary across trials and institutions, particularly between high-dose three-weekly administration and weekly lower-dose regimens. This variation is clinically important for chronotherapy because dosing interval, infusion duration, hydration requirements, cumulative dose completion, and toxicity monitoring all determine whether a timing intervention is feasible.
+
+### 3.6 Delivery logistics and the biological-time blind protocol
+
+本小節應明確把 current treatment delivery 連接到 chronotherapy rationale。
+
+可討論：
+
+- Radiotherapy appointment time。
+- Infusion chair availability。
+- Nursing capacity。
 - Hydration duration。
 - Antiemetic timing。
 - Dexamethasone timing。
-- Radiotherapy appointment time。
-- Nursing and infusion-suite capacity。
-- Renal、electrolyte、auditory 與 neurological monitoring。
-- Patient transportation and evening infusion feasibility。
+- Renal and electrolyte monitoring。
+- Outpatient transportation。
+- Inpatient light exposure and sleep disruption。
+- Nutrition、tube feeding、pain、opioids 與 sleep fragmentation。
 
-## 建議結尾句
+建議結尾句：
 
-> Current cisplatin protocols are largely biological-time blind: they specify dose, cycle, hydration, and monitoring, but rarely define when cisplatin should be administered relative to the patient’s endogenous circadian phase.
+> Current cisplatin protocols are operationally precise but chronobiologically silent: they define dose, cycle, hydration, antiemetics, renal monitoring, and radiotherapy coordination, but rarely define administration time relative to the patient’s endogenous circadian phase.
+
+## 本節應避免
+
+- 不要把本節寫成完整 guideline review。
+- 除非每個國家都有高品質證據，否則不要做 country-by-country table。
+- 不要在沒有 guideline、trial、registry 或 institutional protocol 支持時，對 national practice 做廣泛主張。
+- 不要暗示 cisplatin 是根據 stage alone 自動使用。
+- 不要把 schedule variation 本身寫成 chronotherapy benefit 的證據。
+
+## 建議 display item
+
+可考慮新增一張表：
+
+**Cisplatin entry points and timing constraints in OSCC/HNSCC treatment pathways**
+
+這張表可以整理 treatment setting、clinical trigger、cisplatin role、timing constraints 與 chronotherapy feasibility。如果 manuscript 必須維持 5 個 display items，則可把這些內容整合進文字，不獨立成表。
 
 ---
 
@@ -326,15 +381,15 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 
 ## 目標長度
 
-1,200–1,400 words。
+1,250–1,450 words。
 
 ## 目的
 
-這應是全文最強的章節之一。目標是超越「cisplatin causes nephrotoxicity, ototoxicity, and mucositis」這種描述，進一步解釋為什麼這些毒性會發生。
+這應是全文最強的章節之一。目標是超越「cisplatin causes nephrotoxicity, ototoxicity, and mucositis」這種描述，進一步解釋為什麼這些毒性會發生。本節也應為下一節的 circadian pharmacology 鋪路，說明 cisplatin 毒性取決於多個可能隨時間變動的生物過程。
 
 ## 核心 thesis
 
-> Cisplatin toxicity is not a nonspecific adverse-effect burden. It reflects tissue-specific interactions among platinum uptake, DNA adduct formation, oxidative stress, mitochondrial dysfunction, inflammation, repair capacity, and cell-renewal kinetics.
+> Cisplatin toxicity is not a nonspecific adverse-effect burden. It reflects tissue-specific interactions among platinum uptake, DNA adduct formation, oxidative stress, mitochondrial dysfunction, inflammation, repair capacity, and cell-renewal kinetics. These injury determinants provide the biological substrate through which circadian timing may modulate toxicity.
 
 ## 小節
 
@@ -418,30 +473,42 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 - Bone marrow progenitor proliferation 可能有 circadian variation。
 - 簡短提及即可。
 
+### 4.7 From organ-specific toxicity to timing-sensitive vulnerability
+
+本小節應作為 toxicity mechanism section 與 circadian timing-gate section 之間的概念橋接。
+
+核心論點是：上述器官特異性毒性是由多個可能隨 circadian time 變動的生物過程所介導。Cisplatin-induced injury 取決於 platinum uptake、DNA adduct burden、DNA repair capacity、redox buffering、mitochondrial injury、inflammatory amplification、cell-cycle activity 與 apoptotic threshold。如果這些過程會隨 biological time 改變，那麼相同劑量的 cisplatin 就可能因給藥時間不同而產生不同毒性。
+
+本小節不應詳細介紹 clock biology，而是要收束 Section 4 並鋪陳 Section 5。
+
+建議 transition sentence：
+
+> The organ-specific toxicities described above create the biological substrate for cisplatin chronotherapy. If platinum uptake, DNA repair, redox buffering, inflammatory amplification, mucosal proliferation, and apoptotic threshold vary across circadian time, then the same cisplatin exposure may produce different degrees of normal-tissue injury depending on when it is administered. The next section therefore examines the molecular timing gates that could link cisplatin exposure to phase-dependent toxicity.
+
 ---
 
 # Table 1
 
 ## Title
 
-**Organ-specific mechanisms of cisplatin toxicity and chronotherapy-relevant vulnerabilities**
+**Organ-specific mechanisms of cisplatin toxicity and potential timing gates**
 
-| Toxicity | Main target tissue/cell | Cisplatin access route | Dominant injury mechanisms | Circadian-relevant process | Clinical relevance |
+| Toxicity | Main target tissue/cell | Cisplatin access route | Dominant injury mechanisms | Potential timing gate | Clinical relevance |
 |---|---|---|---|---|---|
-| Nephrotoxicity | Proximal tubular cells | OCT2, CTR1 | DNA damage, ROS, mitochondrial injury, p53–PUMA/BAX apoptosis, inflammation | OCT2 rhythm, BMAL1, XPA/NER | Dose-limiting toxicity |
-| Ototoxicity | Cochlear outer hair cells, stria vascularis | OCT2-related accumulation | ROS, mitochondrial apoptosis, irreversible hair-cell injury | OCT2 rhythm plausible but under-studied | Irreversible hearing loss |
-| Mucositis | Oral/GI mucosal epithelium | systemic exposure plus RT synergy | DNA damage, epithelial turnover failure, ROS, inflammation, barrier breakdown | mucosal proliferation rhythm, clock-controlled cell cycle | Pain, feeding difficulty, treatment breaks |
-| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility and neuroendocrine rhythms | Acute toxicity, hydration and nutrition impact |
-| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | weak evidence; possible redox/mitochondrial clock link | Long-term morbidity |
-| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic proliferation rhythm | Combination-regimen toxicity |
+| Nephrotoxicity | Proximal tubular cells | OCT2, CTR1 | DNA damage, ROS, mitochondrial injury, p53–PUMA/BAX apoptosis, inflammation | OCT2-mediated uptake, XPA/NER repair, BMAL1-linked renal injury | Dose-limiting toxicity |
+| Ototoxicity | Cochlear outer hair cells, stria vascularis | OCT2-related accumulation | ROS, mitochondrial apoptosis, irreversible hair-cell injury | OCT2-mediated cochlear uptake, oxidative stress rhythms | Irreversible hearing loss |
+| Mucositis | Oral/GI mucosal epithelium | systemic exposure plus RT synergy | DNA damage, epithelial turnover failure, ROS, inflammation, barrier breakdown | mucosal proliferation rhythm, epithelial repair timing, clock-controlled cell cycle | Pain, feeding difficulty, treatment breaks |
+| Nausea/vomiting | GI and central emetic pathways | systemic exposure | serotonin release, vagal signaling, NK1/substance P pathway | GI motility, enterochromaffin serotonin release, neuroendocrine rhythms | Acute toxicity, hydration and nutrition impact |
+| Neuropathy | Dorsal root ganglion neurons | platinum accumulation | mitochondrial dysfunction, oxidative stress, axonal degeneration | mitochondrial redox state, axonal repair capacity | Long-term morbidity |
+| Myelosuppression | bone marrow progenitors | systemic exposure | progenitor injury | hematopoietic progenitor cycling | Combination-regimen toxicity |
 
 ---
 
-# Section 5. Circadian regulation of cisplatin pharmacology
+# Section 5. Circadian timing gates in cisplatin uptake, repair, redox control, and tissue vulnerability
 
 ## 建議標題
 
-**Circadian molecular nodes linking cisplatin exposure to toxicity and repair**
+**Circadian timing gates in cisplatin uptake, repair, redox control, and tissue vulnerability**
 
 ## 目標長度
 
@@ -449,15 +516,19 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 
 ## 目的
 
-本節應綜合連結 circadian biology 與 cisplatin toxicity 的 proteins 與 pathways。
+本節不應寫成一般性的 circadian biology section，而應直接說明 Section 4 所描述的 toxicity mechanisms 如何變成 timing-sensitive。
 
 ## 主要論點
 
-> Cisplatin chronotherapy is biologically plausible because multiple determinants of cisplatin toxicity and repair are circadian-regulated or clock-associated.
+> Cisplatin chronotherapy is biologically plausible because several determinants of cisplatin toxicity — platinum uptake, DNA repair, redox buffering, mucosal proliferation, inflammation, mitochondrial injury, and apoptotic threshold — are circadian-regulated or clock-associated.
 
-## 要包含的分子節點
+## 建議開頭段落
 
-### 5.1 XPA / NER
+> The preceding section described cisplatin toxicity as a set of organ-specific injury processes. For chronotherapy, the critical question is whether these processes remain constant throughout the day or vary according to circadian phase. Several determinants of cisplatin injury — including nucleotide excision repair, transporter-mediated platinum uptake, glutathione-dependent detoxification, inflammatory tone, mucosal cell-cycle activity, and mitochondrial apoptotic threshold — are under direct or indirect circadian control. These mechanisms provide molecular timing gates through which cisplatin exposure may translate into different toxicity profiles at different biological times.
+
+## 要包含的 molecular timing gates
+
+### 5.1 XPA / NER as a DNA repair timing gate
 
 這應是最核心的節點。
 
@@ -469,7 +540,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 - 特定 circadian phases 下 normal tissue repair 可能較高。
 - 重要 knowledge gap：XPA rhythm 尚未充分在 OSCC tumor tissue 或 oral mucosa 中證實。
 
-### 5.2 OCT2 / SLC22A2
+### 5.2 OCT2 / SLC22A2 as a platinum uptake timing gate
 
 涵蓋：
 
@@ -478,17 +549,7 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 - Rhythmic expression 或 clock-linked regulation 可能造成 timing-dependent platinum uptake。
 - 仍需要更多 HNSCC-relevant settings 中的直接證據。
 
-### 5.3 BMAL1 / ARNTL
-
-涵蓋：
-
-- Core clock transcription factor。
-- Tissue-specific effects。
-- 在 kidney 中，BMAL1 可能促進 cisplatin injury。
-- 在 nasopharyngeal carcinoma 中，ARNTL silencing 可能促成 cisplatin resistance。
-- 這形成一個 **BMAL1 paradox**：clock biology 可能同時影響 host toxicity 與 tumor response。
-
-### 5.4 GSH / redox metabolism
+### 5.3 GSH / redox buffering and mitochondrial injury rhythms
 
 涵蓋：
 
@@ -496,23 +557,36 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 - GSH biosynthesis 與 redox capacity 可能具有 rhythm。
 - Normal tissue 中 increased detoxification 可能降低毒性。
 - 但 tumor 中 increased detoxification 可能降低療效。
+- Redox 與 mitochondrial vulnerability 可能與 nephrotoxicity、mucositis、ototoxicity 與 neuropathy 有關。
 - OSCC/HNSCC 中的證據仍不完整。
 
-### 5.5 Mucosal proliferation and cell cycle timing
+### 5.4 Mucosal proliferation and epithelial repair rhythms
 
 涵蓋：
 
 - Oral/GI mucosa 具有 rhythmic proliferation。
 - 在 mucosal progenitors 較低增生的時段給 cisplatin，可能降低 mucositis。
+- Epithelial repair timing 也可能影響 mucosal injury 的嚴重度與持續時間。
 - 這對 HNSCC 具有臨床重要性，因為 mucositis 是主要 toxicity endpoint。
 
-### 5.6 PER/CRY and clock integrity
+### 5.5 BMAL1 / ARNTL and tissue-specific clock effects
+
+涵蓋：
+
+- BMAL1/ARNTL 是 core clock transcription factor。
+- 應強調 tissue-specific effects。
+- 在 kidney 中，BMAL1 可能依模型脈絡促進或調節 cisplatin injury。
+- 在 nasopharyngeal carcinoma 中，ARNTL silencing 可能促成 cisplatin resistance。
+- 這形成一個 **BMAL1 paradox**：clock biology 可能同時影響 host toxicity 與 tumor response。
+
+### 5.6 PER/CRY and circadian integrity as a prerequisite for timing interventions
 
 涵蓋：
 
 - PER/CRY 對維持 robust clock function 很重要。
 - Clock disruption 可能消除 chronotherapy benefit。
-- Hospitalisation、artificial light、dexamethasone、pain、opioids 與 feeding schedule 可能干擾病人 rhythm。
+- Hospitalisation、artificial light、dexamethasone、pain、opioids、tube feeding 與 sleep fragmentation 可能干擾病人 rhythm。
+- 這支持 chronotype-aware 或 rhythm-aware scheduling，而不是固定 clock-time dosing。
 
 ---
 
@@ -520,20 +594,20 @@ OSCC staging 雖然具有國際標準，但 cisplatin use 並非只由 stage 決
 
 ## Title
 
-**Circadian-relevant molecular nodes in cisplatin response**
+**Circadian timing gates relevant to cisplatin toxicity and response**
 
-| Molecule/pathway | Function in cisplatin response | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
+| Timing gate / molecule | Function in cisplatin response | Circadian evidence | Tissue relevance | Timing implication | Evidence strength |
 |---|---|---|---|---|---|
-| XPA | NER damage verification and repair of platinum-DNA adducts | Strong oscillation evidence in non-HNSCC tissues | kidney, liver, blood; OSCC mucosa/tumor unknown | Higher normal-tissue repair may reduce toxicity | Strong mechanism; HNSCC-specific gap |
-| ERCC1–XPF | NER incision and adduct excision | Indirectly linked through NER timing | tumor and normal tissues | Tumor repair may reduce cisplatin efficacy | Moderate |
+| XPA / NER | Damage verification and repair of platinum-DNA adducts | Strong oscillation evidence in non-HNSCC tissues | kidney, liver, blood; OSCC mucosa/tumor unknown | Higher normal-tissue repair may reduce toxicity | Strong mechanism; HNSCC-specific gap |
+| ERCC1–XPF / NER incision | NER incision and adduct excision | Indirectly linked through NER timing | tumor and normal tissues | Tumor repair may reduce cisplatin efficacy | Moderate |
 | OCT2 / SLC22A2 | Cisplatin uptake in kidney and cochlea | Clock-linked regulation suggested | kidney, cochlea | Lower uptake phase may reduce nephro/ototoxicity | Strong transporter biology; timing less complete |
 | CTR1 / SLC31A1 | Cisplatin influx in tumor and normal cells | Circadian link unclear | tumor cells, normal tissues | Important for efficacy/resistance, less established for timing | Low–moderate |
+| GSH / GCLC | Detoxification of reactive platinum species | Rhythmic redox regulation reported in some systems | kidney, mucosa, tumor | May reduce normal tissue injury but also tumor kill | Hypothesis-generating |
+| Mucosal cell-cycle regulators | Determine epithelial vulnerability and repair | GI/mucosal proliferation is rhythmic | oral/GI mucosa | Low-proliferation or high-repair windows may reduce mucositis | Moderate |
 | BMAL1 / ARNTL | Core clock factor; regulates clock-controlled genes | Tissue-specific effects in kidney and NPC | kidney, tumor | May affect both toxicity and tumor sensitivity | Moderate |
 | PER/CRY | Negative clock limb; maintains circadian amplitude | Clock disruption abolishes timing effects in models | host tissues, immune system | Intact rhythm may be prerequisite | Strong preclinical |
-| GSH / GCLC | Detoxification of reactive platinum species | Rhythmic redox regulation reported in some systems | kidney, mucosa, tumor | May reduce normal tissue injury but also tumor kill | Hypothesis-generating |
 | p53–PUMA/BAX | Apoptosis after unrepaired DNA damage | DNA damage response may be clock-modulated | kidney, mucosa, tumor | Timing may change apoptotic threshold | Mechanistically plausible |
-| Mucosal cell-cycle regulators | Determine epithelial vulnerability | GI/mucosal proliferation is rhythmic | oral/GI mucosa | Low-proliferation window may reduce mucositis | Moderate |
-| Inflammatory mediators | Amplify organ injury | Immune/inflammatory rhythms exist | kidney, mucosa | Timing may modulate inflammatory injury | Emerging |
+| Inflammatory mediators | Amplify organ injury | Immune/inflammatory rhythms exist | kidney, mucosa | Timing may modulate inflammatory toxicity | Emerging |
 
 ---
 
