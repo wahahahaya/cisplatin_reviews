@@ -864,6 +864,81 @@ Endpoints:
 
 ---
 
+
+# User-Provided Literature First Workflow
+
+Before conducting any new broad literature search, first inspect the user-provided materials in:
+
+```bash
+/Users/arlen/Desktop/oral_review/info
+```
+
+The `info` folder may contain PDFs, notes, BibTeX files, CSV files, spreadsheets, manually collected references, or other source materials.
+
+## Required first step
+
+1. Read and summarize all available user-provided materials in `/info`.
+2. Build an initial evidence inventory from these files.
+3. Classify each reference into manuscript sections:
+   - OSCC/HNSCC cisplatin clinical use
+   - Cisplatin chemistry and DNA damage
+   - Organ-specific toxicity mechanisms
+   - Circadian molecular nodes
+   - Cisplatin chronotherapy evidence
+   - Circadian monitoring and trial design
+4. Identify which sections are already well supported.
+5. Identify which sections have weak, missing, outdated, inaccessible, or low-quality evidence.
+6. Only after this assessment, perform targeted literature searches for the missing or weak areas.
+
+## Literature search rule
+
+Do not repeat broad literature searches for areas already covered by user-provided materials unless:
+
+- the evidence is outdated,
+- the evidence quality is weak,
+- the section lacks primary studies,
+- the section lacks guideline-level support,
+- the section lacks mechanistic support for a key claim,
+- or a key manuscript claim remains unsupported.
+
+## Output requirement after reviewing `/info`
+
+After reviewing `/info`, update:
+
+```bash
+/Users/arlen/Desktop/oral_review/reference/reference.md
+```
+
+with:
+
+- number of user-provided references reviewed,
+- number of usable references,
+- number of inaccessible or incomplete references,
+- references grouped by manuscript section,
+- evidence gaps,
+- targeted search plan,
+- inaccessible papers requiring user download,
+- and any low-quality or questionable sources that should be avoided or replaced.
+
+## Recommended evidence inventory format
+
+Use a structured inventory in `reference/reference.md` or a separate file if needed.
+
+| Manuscript section | User-provided references | Usable references | Full text available | Evidence status | Need targeted search? |
+|---|---:|---:|---:|---|---|
+| OSCC/HNSCC cisplatin clinical use | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Cisplatin chemistry and DNA damage | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Organ-specific toxicity mechanisms | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Circadian molecular nodes | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Cisplatin chronotherapy evidence | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Circadian monitoring and trial design | | | | Sufficient / Partial / Insufficient | Yes / No |
+
+## Practical principle
+
+Use the user-curated literature first, then perform AI-assisted gap filling. The goal is not to redo all literature discovery from scratch, but to verify, organize, critically appraise, and supplement the evidence base.
+
+---
+
 # Data Collection Plan
 
 ## Literature bucket 1: OSCC/HNSCC cisplatin clinical use
@@ -1056,7 +1131,7 @@ Finalize the title and thesis.
 
 ## Step 2
 
-Collect literature and complete three core tables:
+First inspect `/Users/arlen/Desktop/oral_review/info`, build an evidence inventory from user-provided materials, then perform targeted literature searches only for weak or missing areas. After that, complete three core tables:
 
 1. Organ-specific mechanisms of cisplatin toxicity.
 2. Circadian molecular nodes.

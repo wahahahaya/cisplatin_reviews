@@ -864,6 +864,81 @@ Endpoints:
 
 ---
 
+
+# 使用者提供文獻優先流程
+
+在進行任何新的大範圍文獻搜尋之前，請先檢查使用者放在以下資料夾中的資料：
+
+```bash
+/Users/arlen/Desktop/oral_review/info
+```
+
+`info` 資料夾中可能包含 PDF、筆記、BibTeX 檔、CSV 檔、試算表、手動整理的 references，或其他來源資料。
+
+## 必要第一步
+
+1. 讀取並總結 `/info` 中所有可用的使用者提供資料。
+2. 根據這些資料建立初始 evidence inventory。
+3. 將每篇文獻分類到 manuscript sections：
+   - OSCC/HNSCC cisplatin clinical use
+   - Cisplatin chemistry and DNA damage
+   - Organ-specific toxicity mechanisms
+   - Circadian molecular nodes
+   - Cisplatin chronotherapy evidence
+   - Circadian monitoring and trial design
+4. 判斷哪些 section 已經有足夠文獻支持。
+5. 判斷哪些 section 的證據仍不足、缺失、過舊、無法取得全文，或來源品質較弱。
+6. 完成上述評估後，才針對不足或薄弱的部分進行 targeted literature search。
+
+## 文獻搜尋規則
+
+如果使用者提供的資料已經充分涵蓋某個主題，請不要重複進行大範圍文獻搜尋，除非：
+
+- 既有證據過舊，
+- 既有證據品質不足，
+- 該 section 缺少 primary studies，
+- 該 section 缺少 guideline-level support，
+- 某個重要 claim 缺少機制性證據，
+- 或 manuscript 中某個關鍵主張仍沒有足夠文獻支持。
+
+## 檢查 `/info` 後的輸出要求
+
+檢查 `/info` 後，請更新：
+
+```bash
+/Users/arlen/Desktop/oral_review/reference/reference.md
+```
+
+並記錄：
+
+- 使用者提供的文獻總數，
+- 可使用的文獻數量，
+- 無法取得全文或資料不完整的文獻數量，
+- 依 manuscript section 分類的 references，
+- 目前證據缺口，
+- 後續 targeted search plan，
+- 需要使用者下載全文的文獻，
+- 以及任何應避免或替換的低品質或可疑來源。
+
+## 建議 evidence inventory 格式
+
+請在 `reference/reference.md` 中建立結構化 inventory；若內容過長，也可另建單獨檔案。
+
+| Manuscript section | User-provided references | Usable references | Full text available | Evidence status | Need targeted search? |
+|---|---:|---:|---:|---|---|
+| OSCC/HNSCC cisplatin clinical use | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Cisplatin chemistry and DNA damage | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Organ-specific toxicity mechanisms | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Circadian molecular nodes | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Cisplatin chronotherapy evidence | | | | Sufficient / Partial / Insufficient | Yes / No |
+| Circadian monitoring and trial design | | | | Sufficient / Partial / Insufficient | Yes / No |
+
+## 實務原則
+
+優先使用使用者已整理的文獻，再由 AI 協助補足缺口。目標不是從零開始重做所有 literature discovery，而是驗證、整理、批判性評估，並補強現有 evidence base。
+
+---
+
 # Data Collection Plan
 
 ## Literature bucket 1: OSCC/HNSCC cisplatin clinical use
@@ -1056,7 +1131,7 @@ Sincerely,
 
 ## Step 2
 
-蒐集文獻並完成三個核心表格：
+先檢查 `/Users/arlen/Desktop/oral_review/info`，根據使用者提供的資料建立 evidence inventory，之後只針對證據不足或缺失的部分進行 targeted literature search。完成後建立三個核心表格：
 
 1. Organ-specific mechanisms of cisplatin toxicity。
 2. Circadian molecular nodes。
