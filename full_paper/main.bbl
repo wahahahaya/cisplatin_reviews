@@ -1,0 +1,526 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Kelland2007}
+L.~Kelland, The resurgence of platinum-based cancer chemotherapy, Nature
+  Reviews Cancer 7~(8) (2007) 573--584.
+\newblock \href {https://doi.org/10.1038/nrc2167} {\path{doi:10.1038/nrc2167}}.
+
+\bibitem{Karasawa2015}
+T.~Karasawa, P.~S. Steyger, An integrated view of cisplatin-induced
+  nephrotoxicity and ototoxicity, Toxicology Letters 237~(3) (2015) 219--227.
+\newblock \href {https://doi.org/10.1016/j.toxlet.2015.06.012}
+  {\path{doi:10.1016/j.toxlet.2015.06.012}}.
+
+\bibitem{Bernier2004}
+J.~Bernier, C.~Domenge, M.~Ozsahin, K.~Matuszewska, J.-L. Lef{\`e}bvre, R.~H.
+  Greiner, J.~Giralt, P.~Maingon, F.~Rolland, M.~Bolla, F.~Cognetti,
+  J.~Bourhis, A.~Kirkpatrick, M.~van Glabbeke, {European Organization for
+  Research and Treatment of Cancer Trial 22931}, Postoperative irradiation with
+  or without concomitant chemotherapy for locally advanced head and neck
+  cancer, New England Journal of Medicine 350~(19) (2004) 1945--1952.
+\newblock \href {https://doi.org/10.1056/NEJMoa032641}
+  {\path{doi:10.1056/NEJMoa032641}}.
+
+\bibitem{Strojan2016}
+P.~Strojan, J.~B. Vermorken, J.~J. Beitler, E.~Negri, C.~M. Nutting, J.~A.
+  Rendall, K.~J. Harrington, C.~R. Bradford, A.~Eisbruch, W.~M. Mendenhall,
+  A.~Rinaldo, A.~Ferlito, Cumulative cisplatin dose in concurrent
+  chemoradiotherapy for head and neck cancer: a systematic review, Head \& Neck
+  38~(S1) (2016) E2151--E2158.
+\newblock \href {https://doi.org/10.1002/hed.24026}
+  {\path{doi:10.1002/hed.24026}}.
+
+\bibitem{Pabla2008}
+N.~Pabla, Z.~Dong, Cisplatin nephrotoxicity: Mechanisms and renoprotective
+  strategies, Kidney International 73~(9) (2008) 994--1007.
+\newblock \href {https://doi.org/10.1038/sj.ki.5002786}
+  {\path{doi:10.1038/sj.ki.5002786}}.
+
+\bibitem{Yoshizawa2007}
+K.~Yoshizawa, S.~Nozaki, H.~Kitahara, T.~Ohara, K.~Kato, S.~Kawashiri,
+  E.~Yamamoto, Copper efflux transporter ({ATP7B}) contributes to the
+  acquisition of cisplatin-resistance in human oral squamous cell lines,
+  Oncology Reports 18~(4) (2007) 987--991.
+\newblock \href {https://doi.org/10.3892/or.18.4.987}
+  {\path{doi:10.3892/or.18.4.987}}.
+
+\bibitem{JamiesonLippard1999}
+E.~R. Jamieson, S.~J. Lippard, Structure, recognition, and processing of
+  cisplatin-{DNA} adducts, Chemical Reviews 99~(9) (1999) 2467--2498.
+\newblock \href {https://doi.org/10.1021/cr980421n}
+  {\path{doi:10.1021/cr980421n}}.
+
+\bibitem{Kang2009}
+T.-H. Kang, J.~T. Reardon, M.~Kemp, A.~Sancar, Circadian oscillation of
+  nucleotide excision repair in mammalian brain, Proceedings of the National
+  Academy of Sciences 106~(8) (2009) 2864--2867.
+\newblock \href {https://doi.org/10.1073/pnas.0812638106}
+  {\path{doi:10.1073/pnas.0812638106}}.
+
+\bibitem{Li2011XPA}
+X.~Li, G.~Bossinger, et~al., {XPA}-mediated regulation of global nucleotide
+  excision repair by {ATR} is {p53}-dependent and occurs primarily in
+  {S}-phase, Nucleic Acids Research 39 (2011) 5092--5104, [Verify citation
+  details against PDF in codex\_survey at Stage 4].
+\newblock \href {https://doi.org/10.1093/nar/gkr153}
+  {\path{doi:10.1093/nar/gkr153}}.
+
+\bibitem{Cooper2004}
+J.~S. Cooper, T.~F. Pajak, A.~A. Forastiere, J.~Jacobs, B.~H. Campbell, S.~B.
+  Saxman, J.~A. Kish, H.~E. Kim, A.~J. Cmelak, M.~Rotman, M.~Machtay, J.~F.
+  Ensley, K.~S.~C. Chao, C.~J. Schultz, N.~Lee, K.~K. Fu, {Radiation Therapy
+  Oncology Group 9501/Intergroup}, Postoperative concurrent radiotherapy and
+  chemotherapy for high-risk squamous-cell carcinoma of the head and neck, New
+  England Journal of Medicine 351~(19) (2004) 1937--1944.
+\newblock \href {https://doi.org/10.1056/NEJMoa032646}
+  {\path{doi:10.1056/NEJMoa032646}}.
+
+\bibitem{Bernier2005}
+J.~Bernier, J.~S. Cooper, T.~F. Pajak, M.~van Glabbeke, J.~Bourhis,
+  A.~Forastiere, E.~M. Ozsahin, J.~R. Jacobs, J.~Jassem, K.~K. Ang, Defining
+  risk levels in locally advanced head and neck cancers: a comparative analysis
+  of concurrent postoperative radiation plus chemotherapy trials of the {EORTC}
+  (\#22931) and {RTOG} (\#9501), Head \& Neck 27~(10) (2005) 843--850.
+\newblock \href {https://doi.org/10.1002/hed.20279}
+  {\path{doi:10.1002/hed.20279}}.
+
+\bibitem{Adelstein2003}
+D.~J. Adelstein, Y.~Li, G.~L. Adams, H.~Wagner, J.~A. Kish, J.~F. Ensley, D.~E.
+  Schuller, A.~A. Forastiere, An intergroup phase {III} comparison of standard
+  radiation therapy and two schedules of concurrent chemoradiotherapy in
+  patients with unresectable squamous cell head and neck cancer, Journal of
+  Clinical Oncology 21~(1) (2003) 92--98.
+\newblock \href {https://doi.org/10.1200/JCO.2003.01.008}
+  {\path{doi:10.1200/JCO.2003.01.008}}.
+
+\bibitem{Forastiere2003}
+A.~A. Forastiere, H.~Goepfert, M.~Maor, T.~F. Pajak, R.~Weber, W.~Morrison,
+  B.~Glisson, A.~Trotti, J.~A. Ridge, C.~Chao, G.~Peters, D.-J. Lee, A.~Leaf,
+  J.~Ensley, J.~Cooper, Concurrent chemotherapy and radiotherapy for organ
+  preservation in advanced laryngeal cancer, New England Journal of Medicine
+  349~(22) (2003) 2091--2098.
+\newblock \href {https://doi.org/10.1056/NEJMoa031317}
+  {\path{doi:10.1056/NEJMoa031317}}.
+
+\bibitem{Posner2007}
+M.~R. Posner, D.~M. Hershock, C.~R. Blajman, E.~Mickiewicz, E.~Winquist,
+  V.~Gorbounova, S.~Tjulandin, D.~M. Shin, K.~Cullen, T.~J. Ervin, B.~A.
+  Murphy, L.~E. Raez, R.~B. Cohen, M.~Spaulding, R.~B. Tishler, B.~Roth,
+  R.~d.~C. Viroglio, V.~Venkatesan, I.~Romanov, S.~Agarwala, M.~Dugan,
+  A.~Cmelak, A.~M. Markoe, P.~W. Read, L.~Steinbrenner, A.~D. Colevas, C.~M.
+  Norris, R.~I. Haddad, {TAX 324 Study Group}, Cisplatin and fluorouracil alone
+  or with docetaxel in head and neck cancer, New England Journal of Medicine
+  357~(17) (2007) 1705--1715.
+\newblock \href {https://doi.org/10.1056/NEJMoa070956}
+  {\path{doi:10.1056/NEJMoa070956}}.
+
+\bibitem{Vermorken2007}
+J.~B. Vermorken, E.~Remenar, C.~van Herpen, T.~Gorlia, R.~Mesia, M.~Degardin,
+  J.~S.~W. Stewart, S.~Jelic, J.~Betka, J.~H. Preiss, D.~van~den Weyngaert,
+  A.~Awada, D.~Cupissol, H.~R. Kienzer, A.~Rey, I.~Desaunois, J.~Bernier, J.-L.
+  Lefebvre, {EORTC 24971/TAX 323 Study Group}, Cisplatin, fluorouracil, and
+  docetaxel in unresectable head and neck cancer, New England Journal of
+  Medicine 357~(17) (2007) 1695--1704.
+\newblock \href {https://doi.org/10.1056/NEJMoa071028}
+  {\path{doi:10.1056/NEJMoa071028}}.
+
+\bibitem{Pignon2009}
+J.-P. Pignon, A.~le~Ma{\^i}tre, E.~Maillard, J.~Bourhis, {MACH-NC Collaborative
+  Group}, Meta-analysis of chemotherapy in head and neck cancer ({MACH-NC}): an
+  update on 93 randomised trials and 17,346 patients, Radiotherapy and Oncology
+  92~(1) (2009) 4--14.
+\newblock \href {https://doi.org/10.1016/j.radonc.2009.04.014}
+  {\path{doi:10.1016/j.radonc.2009.04.014}}.
+
+\bibitem{Bonner2006}
+J.~A. Bonner, P.~M. Harari, J.~Giralt, N.~Azarnia, D.~M. Shin, R.~B. Cohen,
+  C.~U. Jones, R.~Sur, D.~Raben, J.~Jassem, R.~Ove, M.~S. Kies, J.~Baselga,
+  H.~Youssoufian, N.~Amellal, E.~K. Rowinsky, K.~K. Ang, Radiotherapy plus
+  cetuximab for squamous-cell carcinoma of the head and neck, New England
+  Journal of Medicine 354~(6) (2006) 567--578.
+\newblock \href {https://doi.org/10.1056/NEJMoa053422}
+  {\path{doi:10.1056/NEJMoa053422}}.
+
+\bibitem{Gillison2019}
+M.~L. Gillison, A.~M. Trotti, J.~Harris, A.~Eisbruch, P.~M. Harari, D.~J.
+  Adelstein, E.~M. Sturgis, B.~Burtness, J.~A. Ridge, J.~Ringash, J.~Galvin,
+  M.~Yao, S.~A. Koyfman, D.~M. Blakaj, M.~A. Razaq, A.~D. Colevas, J.~J.
+  Beitler, C.~U. Jones, N.~E. Dunlap, et~al., Radiotherapy plus cetuximab or
+  cisplatin in human papillomavirus-positive oropharyngeal cancer ({NRG
+  Oncology RTOG 1016}): a randomised, multicentre, non-inferiority trial,
+  Lancet 393~(10166) (2019) 40--50.
+\newblock \href {https://doi.org/10.1016/S0140-6736(18)32779-X}
+  {\path{doi:10.1016/S0140-6736(18)32779-X}}.
+
+\bibitem{Mehanna2019}
+H.~Mehanna, M.~Robinson, A.~Hartley, A.~Kong, B.~Foran, T.~Fulton-Lieuw,
+  M.~Dalby, P.~Mistry, M.~Sen, L.~O'Toole, H.~Al~Booz, K.~Dyker, R.~Moleron,
+  S.~Whitaker, S.~Brennan, A.~Cook, M.~Griffin, M.~Beasley, et~al.,
+  Radiotherapy plus cisplatin or cetuximab in low-risk human
+  papillomavirus-positive oropharyngeal cancer ({De-ESCALaTE HPV}): an
+  open-label randomised controlled phase 3 trial, Lancet 393~(10166) (2019)
+  51--60.
+\newblock \href {https://doi.org/10.1016/S0140-6736(18)32752-1}
+  {\path{doi:10.1016/S0140-6736(18)32752-1}}.
+
+\bibitem{Machiels2023}
+J.-P. Machiels, Y.~Tao, B.~Burtness, D.~Rischin, R.~Greil, R.~Uppaluri,
+  M.~Tahara, L.~L. Siu, A.~Psyrri, U.~Keilholz, M.~Burian, A.~R. Hansen,
+  N.~Kiyota, et~al., Pembrolizumab given concomitantly with chemoradiation and
+  as maintenance therapy for locally advanced head and neck squamous cell
+  carcinoma: {KEYNOTE-412}, Annals of Oncology 34~(10) (2023) 914--922.
+\newblock \href {https://doi.org/10.1016/j.annonc.2023.07.003}
+  {\path{doi:10.1016/j.annonc.2023.07.003}}.
+
+\bibitem{LeeNY2021}
+N.~Y. Lee, R.~L. Ferris, A.~Psyrri, R.~I. Haddad, M.~Tahara, J.~Bourhis,
+  K.~Harrington, P.~M.-H. Chang, J.-C. Lin, M.~A. Razaq, L.~A. Dunn, L.~L. Siu,
+  et~al., Avelumab plus standard-of-care chemoradiotherapy versus
+  chemoradiotherapy alone in patients with locally advanced squamous cell
+  carcinoma of the head and neck ({JAVELIN Head and Neck 100}): a randomised,
+  double-blind, placebo-controlled, multicentre, phase 3 trial, Lancet Oncology
+  22~(4) (2021) 450--462.
+\newblock \href {https://doi.org/10.1016/S1470-2045(20)30737-3}
+  {\path{doi:10.1016/S1470-2045(20)30737-3}}.
+
+\bibitem{Szturz2017}
+P.~Szturz, K.~Wouters, N.~Kiyota, M.~Tahara, K.~Prabhash, V.~Noronha, J.~B.
+  Vermorken, Weekly low-dose versus three-weekly high-dose cisplatin for
+  concurrent chemoradiation in locoregionally advanced non-nasopharyngeal head
+  and neck cancer: a systematic review and meta-analysis of aggregate data, The
+  Oncologist 22~(9) (2017) 1056--1066.
+\newblock \href {https://doi.org/10.1634/theoncologist.2017-0015}
+  {\path{doi:10.1634/theoncologist.2017-0015}}.
+
+\bibitem{Kiyota2022}
+N.~Kiyota, M.~Tahara, J.~Mizusawa, T.~Kodaira, H.~Fujii, T.~Yamazaki,
+  H.~Mitani, T.~Akimoto, Y.~Onozawa, H.~Ogawa, et~al., Weekly cisplatin plus
+  radiation for postoperative head and neck cancer ({JCOG1008}): a multicenter,
+  open-label, noninferiority, randomized phase {II/III} trial, Journal of
+  Clinical Oncology 40~(18) (2022) 1980--1990.
+\newblock \href {https://doi.org/10.1200/JCO.21.01293}
+  {\path{doi:10.1200/JCO.21.01293}}.
+
+\bibitem{Noronha2018}
+V.~Noronha, A.~Joshi, V.~M. Patil, J.~Agarwal, S.~Ghosh-Laskar, A.~Budrukkar,
+  V.~Murthy, T.~Gupta, A.~D'Cruz, S.~Banavali, et~al., Once-a-week versus
+  once-every-3-weeks cisplatin chemoradiation for locally advanced head and
+  neck cancer: a phase {III} randomized noninferiority trial, Journal of
+  Clinical Oncology 36~(11) (2018) 1064--1072.
+\newblock \href {https://doi.org/10.1200/JCO.2017.74.9457}
+  {\path{doi:10.1200/JCO.2017.74.9457}}.
+
+\bibitem{Manohar2018}
+S.~Manohar, N.~Leung, Cisplatin nephrotoxicity: a review of the literature,
+  Journal of Nephrology 31~(1) (2018) 15--25.
+\newblock \href {https://doi.org/10.1007/s40620-017-0392-z}
+  {\path{doi:10.1007/s40620-017-0392-z}}.
+
+\bibitem{Breglio2017}
+A.~M. Breglio, A.~E. Rusheen, E.~D. Shide, K.~A. Fernandez, K.~H. Igbai,
+  M.~Shende, A.~R. Baker, Y.~Sun, U.~A. Bhatt, B.~J. Gurley, et~al., Cisplatin
+  is retained in the cochlea indefinitely following chemotherapy, Nature
+  Communications 8 (2017) 1654.
+\newblock \href {https://doi.org/10.1038/s41467-017-01837-1}
+  {\path{doi:10.1038/s41467-017-01837-1}}.
+
+\bibitem{Freyer2017}
+D.~R. Freyer, L.~Chen, M.~D. Krailo, K.~Knight, D.~Villaluna, B.~Bliss, B.~H.
+  Pollock, J.~Ramdas, B.~Lange, D.~Van~Hoff, M.-L. VanSoelen, M.~Bhatt, R.~J.
+  Hutchinson, L.~Sung, Effects of sodium thiosulfate versus observation on
+  development of cisplatin-induced hearing loss in children with cancer
+  ({ACCL0431}): a multicentre, randomised, controlled, open-label, phase 3
+  trial, Lancet Oncology 18~(1) (2017) 63--74.
+\newblock \href {https://doi.org/10.1016/S1470-2045(16)30625-8}
+  {\path{doi:10.1016/S1470-2045(16)30625-8}}.
+
+\bibitem{Brock2018}
+P.~R. Brock, R.~Maibach, M.~Childs, K.~Rajput, D.~Roebuck, M.~J. Sullivan,
+  C.~J. Mache, A.~Whelan, A.~Bhatt, S.~Tewari, G.~V. Massey, S.~Afzal,
+  N.~Dealwis, J.~R. Bhakta, M.~Patel, V.~Mosseri, M.~S. Zaghloul, L.~Dupuis,
+  I.~Lewis, A.~D.~J. Pearson, L.~V. Marshall, Sodium thiosulfate for protection
+  from cisplatin-induced hearing loss, New England Journal of Medicine 378~(25)
+  (2018) 2376--2385.
+\newblock \href {https://doi.org/10.1056/NEJMoa1801109}
+  {\path{doi:10.1056/NEJMoa1801109}}.
+
+\bibitem{Lalla2014}
+R.~V. Lalla, J.~Bowen, A.~Barasch, L.~Elting, J.~Epstein, D.~M. Keefe, D.~B.
+  McGuire, C.~Migliorati, O.~Nicolatou-Galitis, D.~E. Peterson, et~al.,
+  {MASCC/ISOO} clinical practice guidelines for the management of mucositis
+  secondary to cancer therapy, Cancer 120~(10) (2014) 1453--1461.
+\newblock \href {https://doi.org/10.1002/cncr.28592}
+  {\path{doi:10.1002/cncr.28592}}.
+
+\bibitem{Sonis2004}
+S.~T. Sonis, The pathobiology of mucositis, Nature Reviews Cancer 4~(4) (2004)
+  277--284.
+\newblock \href {https://doi.org/10.1038/nrc1318} {\path{doi:10.1038/nrc1318}}.
+
+\bibitem{Basch2011}
+E.~Basch, A.~A. Prestrud, P.~J. Hesketh, M.~G. Kris, P.~C. Feyer, M.~R.
+  Somerfield, M.~Chesney, R.~A. Clark-Snow, A.~M. Flaherty, D.~A.
+  Freedman-Cass, et~al., Antiemetics: {American Society of Clinical Oncology}
+  clinical practice guideline update, Journal of Clinical Oncology 29~(31)
+  (2011) 4189--4198.
+\newblock \href {https://doi.org/10.1200/JCO.2010.34.4614}
+  {\path{doi:10.1200/JCO.2010.34.4614}}.
+
+\bibitem{Aapro2016}
+M.~Aapro, H.~Rugo, G.~Rossi, G.~Rizzi, M.~E. Borroni, I.~Bondarenko,
+  T.~Sarosiek, C.~Oprean, S.~Cardona-Huarte, R.~Bandekar, et~al., {NEPA}, a
+  fixed oral combination of netupitant and palonosetron, improves control of
+  chemotherapy-induced nausea and vomiting ({CINV}) over multiple cycles of
+  chemotherapy: results of a randomized, double-blind, phase {III} trial versus
+  oral palonosetron, Annals of Oncology 27~(8) (2016) 1452--1458.
+\newblock \href {https://doi.org/10.1093/annonc/mdw150}
+  {\path{doi:10.1093/annonc/mdw150}}.
+
+\bibitem{Park2013}
+S.~B. Park, A.~V. Krishnan, C.~S.-Y. Lin, D.~Goldstein, M.~Friedlander, M.~C.
+  Kiernan, Mechanisms underlying chemotherapy-induced neurotoxicity and the
+  potential for neuroprotective strategies, CA: A Cancer Journal for Clinicians
+  63~(6) (2013) 419--437.
+\newblock \href {https://doi.org/10.3322/caac.21204}
+  {\path{doi:10.3322/caac.21204}}.
+
+\bibitem{Ruben2018}
+M.~D. Ruben, G.~Wu, D.~F. Smith, R.~E. Schmidt, L.~J. Francey, Y.~Y. Lee, R.~C.
+  Anafi, J.~B. Hogenesch, A database of tissue-specific rhythmically expressed
+  human genes has potential applications in circadian medicine, Science
+  Translational Medicine 10~(458) (2018) eaat8806.
+\newblock \href {https://doi.org/10.1126/scitranslmed.aat8806}
+  {\path{doi:10.1126/scitranslmed.aat8806}}.
+
+\bibitem{Sulli2019}
+G.~Sulli, M.~T.~Y. Lam, S.~Panda, Interplay between circadian clock and cancer:
+  new frontiers for cancer treatment, Trends in Cancer 5~(8) (2019) 475--494.
+\newblock \href {https://doi.org/10.1016/j.trecan.2019.07.002}
+  {\path{doi:10.1016/j.trecan.2019.07.002}}.
+
+\bibitem{SancarVanGelder2021}
+A.~Sancar, R.~N. Van~Gelder, Clocks, cancer, and chronochemotherapy, Science
+  371~(6524) (2021) eabb0738.
+\newblock \href {https://doi.org/10.1126/science.abb0738}
+  {\path{doi:10.1126/science.abb0738}}.
+
+\bibitem{Kang2010}
+T.-H. Kang, L.~A. Lindsey-Boltz, J.~T. Reardon, A.~Sancar, Circadian control of
+  {XPA} and excision repair of cisplatin-{DNA} damage by cryptochrome and
+  {HERC2} ubiquitin ligase, Proceedings of the National Academy of Sciences
+  107~(11) (2010) 4890--4895.
+\newblock \href {https://doi.org/10.1073/pnas.0915085107}
+  {\path{doi:10.1073/pnas.0915085107}}.
+
+\bibitem{Lee2011a}
+J.~H. Lee, A.~Sancar, Circadian clock disruption improves the efficacy of
+  chemotherapy through {p73}-mediated apoptosis, Proceedings of the National
+  Academy of Sciences 108~(26) (2011) 10668--10672.
+\newblock \href {https://doi.org/10.1073/pnas.1106284108}
+  {\path{doi:10.1073/pnas.1106284108}}.
+
+\bibitem{Lee2011b}
+J.~H. Lee, A.~Sancar, Regulation of apoptosis by the circadian clock through
+  {NF-$\kappa$B} signaling, Proceedings of the National Academy of Sciences
+  108~(30) (2011) 12036--12041.
+\newblock \href {https://doi.org/10.1073/pnas.1108125108}
+  {\path{doi:10.1073/pnas.1108125108}}.
+
+\bibitem{Oda2014}
+M.~Oda, S.~Koyanagi, Y.~Tsurudome, T.~Kanemitsu, N.~Matsunaga, S.~Ohdo, Renal
+  circadian clock regulates the dosing-time dependency of cisplatin-induced
+  nephrotoxicity in mice, Molecular Pharmacology 85~(5) (2014) 715--722.
+\newblock \href {https://doi.org/10.1124/mol.113.089805}
+  {\path{doi:10.1124/mol.113.089805}}.
+
+\bibitem{Li1997}
+X.-M. Li, M.~Le~Gouar, J.-M. Robert, F.~L{\'e}vi, Glutathione s-transferase
+  activity and {GSH} rhythms in gut, liver, kidney and brain of female mice,
+  Toxicology and Applied Pharmacology 142 (1997) 105--116.
+\newblock \href {https://doi.org/10.1006/taap.1996.8016}
+  {\path{doi:10.1006/taap.1996.8016}}.
+
+\bibitem{Bjarnason2001}
+G.~A. Bjarnason, R.~C.~K. Jordan, P.~A. Wood, Q.~Li, D.~W. Lincoln, R.~B.
+  Sothern, W.~J.~M. Hrushesky, Y.~Ben-David, Circadian expression of clock
+  genes in human oral mucosa and skin: association with specific cell-cycle
+  phases, American Journal of Pathology 158~(5) (2001) 1793--1801.
+\newblock \href {https://doi.org/10.1016/S0002-9440(10)64135-1}
+  {\path{doi:10.1016/S0002-9440(10)64135-1}}.
+
+\bibitem{Thaiss2014}
+C.~A. Thaiss, D.~Zeevi, M.~Levy, G.~Zilberman-Schapira, J.~Suez, A.~C.
+  Tengeler, L.~Abramson, M.~N. Katz, T.~Korem, N.~Zmora, Y.~Kuperman, I.~Biton,
+  S.~Gilad, A.~Harmelin, H.~Shapiro, Z.~Halpern, E.~Segal, E.~Elinav,
+  Transkingdom control of microbiota diurnal oscillations promotes metabolic
+  homeostasis, Cell 159~(3) (2014) 514--529.
+\newblock \href {https://doi.org/10.1016/j.cell.2014.09.048}
+  {\path{doi:10.1016/j.cell.2014.09.048}}.
+
+\bibitem{Zha2020}
+M.~Zha, Q.~Shen, H.~Guo, J.~Lu, Y.~Zhang, S.~Wu, M.~Wang, C.~Li, {BMAL1}
+  facilitates cisplatin-induced renal tubular injury and cell death, Cell Death
+  \& Disease 11 (2020) 214.
+\newblock \href {https://doi.org/10.1038/s41419-020-2391-6}
+  {\path{doi:10.1038/s41419-020-2391-6}}.
+
+\bibitem{Li2022ARNTL}
+H.~Li, F.~Zhang, Z.~Hu, J.~Liu, Y.~Dai, W.~Tan, C.~Shi, et~al., {ARNTL}
+  ({BMAL1}) overexpression suppresses the proliferation and invasion of human
+  oral squamous cell carcinoma cells through the {Wnt/$\beta$-catenin}
+  signaling pathway, Medical Oncology 39 (2022) 63.
+\newblock \href {https://doi.org/10.1007/s12032-022-01671-4}
+  {\path{doi:10.1007/s12032-022-01671-4}}.
+
+\bibitem{Peng2019}
+H.~Peng, C.~Ding, L.~Jiang, J.~Liu, Y.~Wang, Y.~Tang, Y.~Li, Z.~Liao, J.~Ning,
+  W.~Xie, et~al., {ARNTL} hypermethylation promoted tumor progression and was a
+  potential immunotherapy target in nasopharyngeal carcinoma, Journal of
+  Experimental \& Clinical Cancer Research 38 (2019) 445.
+\newblock \href {https://doi.org/10.1186/s13046-019-1433-3}
+  {\path{doi:10.1186/s13046-019-1433-3}}.
+
+\bibitem{Kramer2022}
+A.~Kramer, H.~Herzel, A.~Mor{\'e}n-Giralt, et~al., Foundations of circadian
+  medicine, PLOS Biology 20~(3) (2022) e3001567.
+\newblock \href {https://doi.org/10.1371/journal.pbio.3001567}
+  {\path{doi:10.1371/journal.pbio.3001567}}.
+
+\bibitem{Tsuchiya2018}
+Y.~Tsuchiya, S.~Koyanagi, N.~Matsunaga, S.~Ohdo, et~al., Dosing time-dependent
+  changes in the therapeutic effect of {5-fluorouracil/cisplatin} on tumor
+  growth of oral squamous cell carcinoma in patients and mouse xenograft
+  models, Chronobiology International 35~(3) (2018) 301--316.
+\newblock \href {https://doi.org/10.1080/07420528.2017.1410090}
+  {\path{doi:10.1080/07420528.2017.1410090}}.
+
+\bibitem{Zhang2018}
+P.-X. Zhang, Y.~Xu, X.-D. Zhu, et~al., Cisplatin chronomodulated radiotherapy
+  combined with oral cisplatin in patients with locally advanced nasopharyngeal
+  carcinoma: a phase {II} randomized study, Chronobiology International 35
+  (2018) 508--518.
+\newblock \href {https://doi.org/10.1080/07420528.2017.1414072}
+  {\path{doi:10.1080/07420528.2017.1414072}}.
+
+\bibitem{Roenneberg2003}
+T.~Roenneberg, A.~Wirz-Justice, M.~Merrow, Life between clocks: daily temporal
+  patterns of human chronotypes, Journal of Biological Rhythms 18~(1) (2003)
+  80--90.
+\newblock \href {https://doi.org/10.1177/0748730402239679}
+  {\path{doi:10.1177/0748730402239679}}.
+
+\bibitem{Koritala2022}
+B.~S.~C. Koritala, C.~M. Wager, C.~C. Kappe, S.~D. Sherrod, J.~A. McLean,
+  B.~Bhave, S.~V. Bhave, et~al., Dosing time of a combination cisplatin and
+  ionizing radiation treatment impacts tumor response and toxicity in a mouse
+  mammary carcinoma model, Toxicology and Applied Pharmacology 449 (2022)
+  116097.
+\newblock \href {https://doi.org/10.1016/j.taap.2022.116097}
+  {\path{doi:10.1016/j.taap.2022.116097}}.
+
+\bibitem{Okyar2011}
+A.~Okyar, C.~Dressler, A.~Hanafy, et~al., Strain- and sex-dependent circadian
+  changes in {Abcc2} transporter expression in mouse liver and kidney,
+  Chronobiology International[Verify volume/pages/DOI against PDF in
+  codex\_survey] (2011).
+
+\bibitem{Sassa2010}
+Y.~Sassa, S.~Koyanagi, S.~Ohdo, et~al., Presence of circadian oscillation of
+  {MDR1} gene in murine brain, Chronobiology International[Verify
+  volume/pages/DOI against PDF in codex\_survey] (2010).
+
+\bibitem{Giacchetti2006}
+S.~Giacchetti, G.~Bjarnason, C.~Garufi, D.~Genet, S.~Iacobelli, M.~Tampellini,
+  R.~Smaaland, C.~Focan, B.~Coudert, A.~Reinberg, et~al., Phase {III} trial
+  comparing 4-day chronomodulated therapy versus standard infusion in patients
+  with advanced colorectal cancer, Journal of Clinical Oncology 24~(22) (2006)
+  3562--3569.
+\newblock \href {https://doi.org/10.1200/JCO.2006.06.1440}
+  {\path{doi:10.1200/JCO.2006.06.1440}}.
+
+\bibitem{Innominato2020}
+P.~F. Innominato, C.~Focan, T.~Gorlia, M.-C. Mormont, M.~Lam{\'e}rsfeld,
+  S.~Giacchetti, D.~Gholam, R.~Tancredi, G.~A. Bjarnason, R.~A. Fl{\"o}ter,
+  et~al., Circadian timing for oxaliplatin and fluorouracil delivery as an
+  independent prognostic factor of overall survival in colorectal cancer
+  patients: sex-related interactions from the 3{rd} {ARTDECO} trial, Cancer
+  Medicine 9~(6) (2020) 1840--1852.
+\newblock \href {https://doi.org/10.1002/cam4.2869}
+  {\path{doi:10.1002/cam4.2869}}.
+
+\bibitem{Seto2016}
+H.~Seto, S.~Koyanagi, S.~Ohdo, et~al., Influence of dosing times on
+  cisplatin-induced peripheral neurotoxicity and tumor growth of a human
+  non-small cell lung cancer xenograft in nude mice, Chronobiology
+  International[Verify volume/pages/DOI against PDF in codex\_survey] (2016).
+
+\bibitem{Mormont2000}
+M.-C. Mormont, J.~Waterhouse, P.~Bleuzen, S.~Giacchetti, A.~Jami, A.~Bogdan,
+  J.~Lellouch, J.-L. Misset, Y.~Touitou, F.~L{\'e}vi, Marked 24-h rest/activity
+  rhythms are associated with better quality of life, better response, and
+  longer survival in patients with metastatic colorectal cancer and good
+  performance status, Clinical Cancer Research 6~(8) (2000) 3038--3045.
+
+\bibitem{Innominato2014}
+P.~F. Innominato, V.~P. Roche, O.~G. Palesh, A.~Ulusakarya, D.~Spiegel, F.~A.
+  L{\'e}vi, The circadian timing system in clinical oncology, Annals of
+  Medicine 46~(4) (2014) 191--207.
+\newblock \href {https://doi.org/10.3109/07853890.2014.916990}
+  {\path{doi:10.3109/07853890.2014.916990}}.
+
+\bibitem{Qian2021}
+D.~C. Qian, T.~Kleber, B.~Brammer, J.~T. Wan, J.~M. Switchenko,
+  J.~Janopaul-Naylor, J.~Zhong, S.~T. Kahn, K.~R. Patel, J.~W. Shelton, et~al.,
+  Effect of immunotherapy time-of-day infusion on overall survival among
+  patients with advanced melanoma and non-small cell lung cancer: a multicenter
+  international study, European Journal of Cancer 143 (2021) 24--33.
+\newblock \href {https://doi.org/10.1016/j.ejca.2020.10.031}
+  {\path{doi:10.1016/j.ejca.2020.10.031}}.
+
+\bibitem{Pocock2012}
+S.~J. Pocock, C.~A. Ariti, T.~J. Collier, D.~Wang, The win ratio: a new
+  approach to the analysis of composite endpoints in clinical trials based on
+  clinical priorities, European Heart Journal 33~(2) (2012) 176--182.
+\newblock \href {https://doi.org/10.1093/eurheartj/ehr352}
+  {\path{doi:10.1093/eurheartj/ehr352}}.
+
+\bibitem{Mormont2003}
+M.-C. Mormont, F.~L{\'e}vi, Cancer chronotherapy: principles, applications, and
+  perspectives, Cancer 97~(S1) (2003) 155--169.
+\newblock \href {https://doi.org/10.1002/cncr.11040}
+  {\path{doi:10.1002/cncr.11040}}.
+
+\bibitem{OrtizTudela2016}
+E.~Ortiz-Tudela, P.~F. Innominato, M.-{\'{A}}. Rol, F.~A. L{\'e}vi, J.~A.
+  Madrid, Relevance of internal time and circadian robustness for cancer
+  patients, BMC Cancer 16 (2016) 285.
+\newblock \href {https://doi.org/10.1186/s12885-016-2314-0}
+  {\path{doi:10.1186/s12885-016-2314-0}}.
+
+\bibitem{Liu2025wearable}
+G.~Liu, et~al., Use of continuous temperature data from wearable devices for
+  circadian phase assessment, npj Digital Medicine[Verify full citation details
+  against PDF in codex\_survey at Stage 4] (2025).
+
+\bibitem{Levi2020}
+F.~A. L{\'e}vi, S.~Komarzynski, Q.~Huang, K.~A. Young, Y.~Ang, P.~F.
+  Innominato, Wrist-worn telemetric actigraphy: a method to assess circadian
+  rhythms and sleep-wake patterns in cancer patients receiving chemotherapy,
+  Cancers 12~(6) (2020) 1458.
+\newblock \href {https://doi.org/10.3390/cancers12061458}
+  {\path{doi:10.3390/cancers12061458}}.
+
+\bibitem{Innominato2012}
+P.~F. Innominato, C.~Focan, T.~Gorlia, M.-C. Mormont, et~al., Circadian rhythm
+  of rest and activity and quality of life in patients with metastatic
+  colorectal cancer during oxaliplatin- containing chemotherapy, International
+  Journal of Cancer 130 (2012) 2632--2641.
+\newblock \href {https://doi.org/10.1002/ijc.26270}
+  {\path{doi:10.1002/ijc.26270}}.
+
+\end{thebibliography}

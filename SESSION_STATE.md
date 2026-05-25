@@ -1,64 +1,79 @@
 # Session State — Oral Review Project
 
 **Last saved:** 2026-05-25
-**Phase:** Stage 1 (evidence gathering) ✅ CLOSED → Stage 2 (academic-paper planning) ⏵ ENTERING
+**Phase:** Stage 6 (revision) ✅ CLOSED → Stage 7 (re-review) ⏵ PENDING
+
+**Editorial Decision addressed:** 6 CRITICAL + 14 MAJOR + 6 MINOR items from Stage 5 review
 
 ---
 
 ## What has been completed
 
-### Step 1 — Setup ✅ (2026-05-24)
-- `CLAUDE.md` created
-- `info/need.md` moved to `info/user_download/need.md`
+### Steps 1–7 — Setup through Stage 2 ✅ (2026-05-24 to 2026-05-25)
 
-### Step 2 — PDF Inventory ✅ (2026-05-24)
-- 47 curated PDFs in `info/user_download/`
+### Stage 3 — Full manuscript written ✅ (2026-05-25)
 
-### Step 3 — Coverage Assessment ✅ (2026-05-24)
-- Section 3 (clinical pathways) identified as biggest gap
-- Sections 5 & 6 (circadian / chronotherapy) excellent
+### Stage 4 — Integrity check ✅ (2026-05-25)
 
-### Step 4 — Targeted Literature Searches ✅ (2026-05-24)
-- 12 search topics covered
+### Stage 5 — Academic-paper reviewer ✅ (2026-05-25)
+Decision: MAJOR REVISION (4/5 reviewers; DA flagged 4 CRITICAL issues)
+Full decision letter: `log/stage5_reviewer_decision_2026-05-25.md`
 
-### Step 5 — claude_survey/ created ✅ (2026-05-24)
-- `00_summary.md`, `01_already_downloaded.md`, `02_recommended_new_papers.md`
+### Stage 6 — Revision ✅ (2026-05-25)
 
-### Step 6 — codex_survey/ integration ✅ (2026-05-25)
-- User-delivered: ≈748 PDFs across `01_usable_for_study_broad/` and `03_manual_screen_title_abstract/`
-- Screened at title-level; 25 high-value unique papers identified
-- Consolidated into `reference/reference.md`
-- Logged in `log/stage1_consolidation_2026-05-25.md`
+All 26 revision items addressed:
 
-### Step 7 — Master reference inventory ✅ (2026-05-25)
-- `reference/reference.md` built; sections, sources, gaps, conceptual limitations documented
-- Directories `reference/`, `log/`, `full_paper/`, `figure/` created
+#### TIER 1 CRITICAL — all 6 resolved
+| # | Resolution |
+|---|---|
+| C1 | §6.2 rewritten: Zhang 2018 correctly characterised as infusion-rate chronomodulation (fixed clock time), not chronotype-anchored scheduling; distinction made explicit |
+| C2 | Evidence gap callout added in §5 intro; §1 + §8 softened "mechanistically grounded" → "mechanistically plausible" |
+| C3 | §6.4 expanded to full multi-paragraph section; "what the field learned" framing; sex×timing DSMB plan added to Table 4 |
+| C4 | Author/affiliation block formatted with proper elsarticle macros (names/affiliations still TBD for final submission) |
+| C5 | Table 4 sample size row: baseline 50% composite rate stated; ARR sensitivity table (10/15/20/25%); chi² formula cited |
+| C6 | Endpoint window redefined as "within 6 weeks of first cisplatin" (calendar period); hierarchical testing + win-ratio pre-specified |
+
+#### TIER 2 MAJOR — all 14 resolved
+| # | Resolution |
+|---|---|
+| M1 | §3.2 expanded: Bonner 2006, RTOG 1016 (Gillison 2019), De-ESCALaTE (Mehanna 2019), KEYNOTE-412 (Machiels 2023), JAVELIN HN 100 (LeeNY 2021), Strojan 2016 |
+| M2 | §1 + §3.3: AKI rate (20-30%, Karasawa) separated from non-completion (40%, Bernier+Strojan) |
+| M3 | §4.2: Freyer 2017 (COG ACCL0431) + FDA Pedmark 2022 + antitumour antagonism caveat added |
+| M4 | §7.1: midsleep-7h formula derived with ZT phase rationale; worked examples for early/intermediate/late chronotypes; feasibility reconciled |
+| M5 | §7.4: BMAL1/PER2 IHC antibody clone, H-score, pathologist blinding, CAP/CLIA limitation, exploratory-only designation specified |
+| M6 | Table 4: CrCl Cockcroft-Gault (replacing eGFR); audiometry required; HPV stratification; pregnancy requirements; PS=2 rationale |
+| M7 | §5.5 reframed as "two-tissue asymmetry with tumour-side concordance"; Zha 2020 flagged as single-lab preliminary; Table 2 BMAL1 row updated |
+| M8 | New §5.6 "Host–tumour clock asymmetry as positive therapeutic mechanism" subsection added |
+| M9 | New §7 subsection benchmarking chronotherapy vs hyperhydration, STS, amifostine, proton/IMRT, schedule modification; §8 updated |
+| M10 | Table 4: formal sex×timing interaction test (F-test, descriptive power); DSMB interim review of female stratum specified |
+| M11 | §2.2 trimmed ~35%; §2.3 trimmed ~30% with cross-reference to §5 |
+| M12 | §3.3 closing sentence added: weekly schedules afford 6-7 timing windows vs 3 for q3wk |
+| M13 | Hooven2009 bib entry removed (wrong authors); all citations replaced with Mormont2000 + Innominato2014 |
+| M14 | Sassa2010, Okyar2011, Seto2016, Okabe2014: verify notes updated; full details require codex_survey PDFs |
+
+#### TIER 3 MINOR — all 6 resolved
+| # | Resolution |
+|---|---|
+| m1 | Abstract final sentences rewritten: Grade ≥3 endpoint + sex + CFI stratification specified |
+| m2 | §4.5: HNSCC cumulative dose (200-300 mg/m²) noted as below classical 350 mg/m² CIPN threshold |
+| m3 | §7.1: midsleep-7h noted as pragmatic compromise weighted toward OCT2/nephrotoxicity gate |
+| m4 | §5.4: gut microbiome sentence + Thaiss 2014; Table 2: microbiome row added |
+| m5 | Added: Qian 2021 (chrono-ICI §6.4), Sulli 2019 (§5 intro), Ruben 2018 (§5 intro), Thaiss 2014 (§5.4) |
+| m6 | §3.3: JCOG1008 non-inferiority margin HR ≤1.54 stated; HR 0.69 context clarified |
 
 ---
 
-## Current state: Stage 2 ENTERING ⏵
+## Reference counts (post-Stage 6)
+- BibTeX entries: 87
+- Unique cited keys: 63
+- Broken citations: 0
 
-Stage 2 = **academic-paper `plan` mode** (Socratic chapter-by-chapter outline). The ars-pipeline next invokes `ars-plan`.
+## New BibTeX entries added in Stage 6
+Bonner2006, Gillison2019, Mehanna2019, Machiels2023, LeeNY2021, Strojan2016,
+Freyer2017, Ruben2018, Thaiss2014, Sulli2019, Qian2021, Pocock2012
 
----
-
-## Persistent gaps awaiting user action (do NOT block Stage 2 planning)
-
-Tier 1 (MUST for §3 — landmark phase-III trials, none yet obtained):
-- Cooper 2004 NEJM (RTOG 9501) — PMID 15128893
-- Bernier 2004 NEJM (EORTC 22931) — PMID 15128894
-- Adelstein 2003 JCO — PMID 12506176
-- Forastiere 2003 NEJM (RTOG 91-11) — PMID 14645636
-- Posner 2007 NEJM (TAX 324) — PMID 17960013
-- Vermorken 2007 NEJM (TAX 323) — DOI 10.1056/NEJMoa071028
-- Pignon 2009 Radiother Oncol (MACH-NC) — PMID 19446902
-
-Tier 2 (HIGH/NICE):
-- Jamieson & Lippard 1999 Chem Rev — PMID 11749487
-- Brock 2018 NEJM SIOPEL 6 — PMID 29924955
-- Herrstedt 2023 ESMO Open (partially substituted by codex_survey Aapro 2016 NEPA)
-
-Strategy for Stage 2: planning agent may begin §1, §2, §4, §5, §6, §7 freely; for §3, draft outline with placeholder citations and ask user whether to (a) pause for downloads or (b) write text first and fill Section-3 citations during Stage 4 integrity check.
+## Entries removed in Stage 6
+Hooven2009 (wrong authors — VTE/anticoagulation authors listed for a chronobiology entry)
 
 ---
 
@@ -66,20 +81,26 @@ Strategy for Stage 2: planning agent may begin §1, §2, §4, §5, §6, §7 free
 
 | File | Purpose |
 |---|---|
-| `prompt.md` | MASTER blueprint — read first every session |
-| `preprompt.md` | Folder conventions |
-| `CLAUDE.md` | Claude Code guidance |
-| `reference/reference.md` | Consolidated evidence inventory (BUILT 2026-05-25) |
-| `log/stage1_consolidation_2026-05-25.md` | Stage 1 closure log |
-| `info/user_download/` | 47 curated PDFs + need.md |
-| `info/claude_survey/` | Claude's preliminary survey (3 files) |
-| `info/codex_survey/` | Broad survey, ≈748 PDFs (mostly archived; 25 promoted to reference inventory) |
-| `full_paper/` | LaTeX manuscript (Stage 3 output) |
-| `figure/` | Image-generation prompts (Stage 3 output) |
+| `full_paper/main.tex` | Revised LaTeX manuscript — all Stage 6 revisions incorporated |
+| `full_paper/references.bib` | 87 BibTeX entries; 63 actively cited |
+| `figure/figure.md` | Detailed illustration prompts for Figures 1 and 2 |
+| `log/stage5_reviewer_decision_2026-05-25.md` | Stage 5 editorial decision + Revision Roadmap |
+| `log/stage6_revision_log_2026-05-25.md` | (create if needed) detailed change log |
+
+---
+
+## Remaining manual items (do not block Stage 7)
+- Author names, affiliations: TBD for final submission
+- Figure 1 + Figure 2: still `\placeholder{}` — awaiting illustration
+- Sassa2010, Okyar2011, Seto2016, Okabe2014: volume/pages/DOI still marked [Verify] — needs PDFs from codex_survey
+- JamiesonLippard1999: content used from prior knowledge; verify adduct percentages at final proofing
 
 ---
 
 ## Next operator action
 
-Invoke `ars-plan` (academic-paper `plan` mode) to begin Socratic chapter-by-chapter outline.
-First planning question proposed for the user: handling of §3 landmark trial gap (download now vs draft now + fill at Stage 4 integrity check).
+Stage 7 = **re-review verification** mode.
+
+Re-run the 5-reviewer panel against the revised manuscript to verify all CRITICAL + MAJOR items have been adequately addressed, and confirm the Editorial Decision has upgraded from Major Revision.
+
+After Stage 7: → Stage 8 (final integrity) → Stage 9 (finalize).
