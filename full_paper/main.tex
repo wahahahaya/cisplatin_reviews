@@ -16,13 +16,33 @@
 
 \usepackage{lineno}
 \usepackage{amsmath}
+\usepackage[a4paper,margin=1in]{geometry}
 \usepackage{booktabs}
 \usepackage{graphicx}
 \usepackage{microtype}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+\usepackage{caption}
 \usepackage[hidelinks]{hyperref}
 \usepackage{rotating}
 \usepackage{xcolor}
 \usepackage{soul}
+
+\setlength{\parindent}{1.25em}
+\setlength{\parskip}{0.25\baselineskip}
+\setlength{\emergencystretch}{3em}
+\renewcommand{\arraystretch}{1.18}
+\captionsetup{font=small,labelfont=bf}
+\captionsetup[figure]{font=footnotesize,labelfont=bf}
+
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+\newcolumntype{L}[1]{>{\RaggedRight\arraybackslash}p{#1}}
+
+\newenvironment{compactsidewaystable}
+  {\begin{sidewaystable}[p]\centering\scriptsize
+   \setlength{\tabcolsep}{3pt}\renewcommand{\arraystretch}{1.08}}
+  {\end{sidewaystable}}
 
 \newcommand{\todo}[1]{\textcolor{red}{\textbf{[TODO: #1]}}}
 \newcommand{\plaincite}[1]{\textcolor{blue}{[CITE: #1]}}
@@ -61,10 +81,10 @@ delivery in a substantial proportion of patients.  These toxicities are
 organ-specific: each reflects a distinct biology of transporter-mediated
 platinum uptake, DNA adduct accumulation, repair capacity, and
 tissue-specific apoptotic response.  An emerging body of molecular evidence
-indicates that several determinants of cisplatin organ toxicity — including
+indicates that several determinants of cisplatin organ toxicity --- including
 OCT2-mediated renal tubular uptake, XPA-dependent nucleotide excision
 repair activity, glutathione redox buffering, and mucosal epithelial
-proliferative rate — oscillate with circadian periodicity under the control
+proliferative rate --- oscillate with circadian periodicity under the control
 of the molecular clock.  Mechanistic studies, a small OSCC pilot study, and
 a phase~II randomised trial in nasopharyngeal carcinoma support the hypothesis
 that the circadian time of cisplatin administration modulates toxicity
@@ -91,7 +111,7 @@ nucleotide excision repair \sep chronotype
 
 %%
 %% ================================================================
-%% SECTION 1 — Introduction  [WRITE LAST, before Abstract]
+%% SECTION 1 --- Introduction  [WRITE LAST, before Abstract]
 %% ================================================================
 %%
 \section{Introduction}
@@ -113,9 +133,8 @@ survival benefit and the absence of a well-tolerated oral or parenteral
 alternative of equivalent efficacy.
 
 Cisplatin's effectiveness is constrained by a narrow therapeutic window.
-At the doses required for radiosensitisation — typically
-100\,mg\,m$^{-2}$ every three weeks or 40\,mg\,m$^{-2}$ weekly —
-cisplatin consistently causes nephrotoxicity, high-frequency sensorineural
+At the doses required for radiosensitisation --- typically
+100\,mg\,m$^{-2}$ every three weeks or 40\,mg\,m$^{-2}$ weekly --- cisplatin consistently causes nephrotoxicity, high-frequency sensorineural
 hearing loss, oral mucositis, nausea and vomiting, peripheral neuropathy,
 and myelosuppression.  Clinically significant acute kidney injury occurs in approximately
 20--30\% of patients receiving high-dose cisplatin under contemporary
@@ -142,14 +161,14 @@ Understanding these organ-specific mechanisms is a prerequisite for any
 rational timing-based intervention.
 
 An emerging body of evidence indicates that several determinants of
-cisplatin toxicity — notably OCT2 expression in renal tubular cells,
+cisplatin toxicity --- notably OCT2 expression in renal tubular cells,
 the rate of nucleotide excision repair mediated by XPA, and the
-glutathione redox buffering capacity — oscillate with circadian periodicity
+glutathione redox buffering capacity --- oscillate with circadian periodicity
 under the control of the molecular clock.  If these oscillations are of
 sufficient amplitude and phase-coherence in vivo, the time of cisplatin
 administration within the 24-hour cycle could systematically shift the
 balance between platinum accumulation, DNA repair capacity, and apoptotic
-threshold in normal tissues — offering a route to toxicity reduction without
+threshold in normal tissues --- offering a route to toxicity reduction without
 dose modification and without the biological cost of a dose reduction.
 
 This review synthesises the evidence bearing on this hypothesis in the
@@ -160,7 +179,7 @@ the circadian timing gates most relevant to those mechanisms
 (Section~\ref{sec:gates}), and the current clinical and preclinical
 evidence for cisplatin chronotherapy (Section~\ref{sec:evidence}).
 We then propose a chronotype-aware trial framework in which toxicity
-reduction — not survival improvement — is the primary research hypothesis
+reduction --- not survival improvement --- is the primary research hypothesis
 (Section~\ref{sec:future}).  The core argument is that cisplatin toxicity
 in OSCC/HNSCC is not merely dose-dependent, but organ-specific,
 pathway-specific, and potentially time-dependent, and that
@@ -171,7 +190,7 @@ that limits treatment completion in this population.
 
 %%
 %% ================================================================
-%% SECTION 2 — Cisplatin chemistry and DNA damage
+%% SECTION 2 --- Cisplatin chemistry and DNA damage
 %% ================================================================
 %%
 \section{Cisplatin chemistry and DNA damage: a timing-sensitive injury cascade}
@@ -200,7 +219,7 @@ relevance is the organic cation transporter~2, OCT2 (SLC22A2), highly
 expressed at the basolateral membrane of renal proximal tubular cells
 and in cochlear stria vascularis cells~\cite{Pabla2008}: OCT2 mediates
 high-capacity platinum accumulation specifically in these tissues, which
-explains why cisplatin — unlike carboplatin or oxaliplatin — preferentially
+explains why cisplatin --- unlike carboplatin or oxaliplatin --- preferentially
 damages the kidney and cochlea~\cite{Pabla2008, Karasawa2015}. Intracellular
 platinum is exported by the copper-transporting P-type ATPases ATP7A and
 ATP7B; in OSCC, ATP7B overexpression is the dominant acquired resistance
@@ -236,9 +255,9 @@ exceeds repair capacity, ATR--CHK1/ATM--CHK2 checkpoint cascades stabilise
 p53, which transactivates the pro-apoptotic effector PUMA-$\alpha$.
 PUMA-$\alpha$ liberates BAX to permeabilise the outer mitochondrial
 membrane, releasing cytochrome~\emph{c} and activating caspase-9-dependent
-intrinsic apoptosis~\cite{Pabla2008}. The resulting injury cascade — from
+intrinsic apoptosis~\cite{Pabla2008}. The resulting injury cascade --- from
 platinum adduct formation through NER engagement, oxidative amplification,
-and apoptotic execution — depends on multiple molecular processes, several
+and apoptotic execution --- depends on multiple molecular processes, several
 of which show circadian oscillation; the extent of normal-tissue injury
 produced by a given dose therefore potentially depends on \emph{when} that
 dose is administered.
@@ -250,7 +269,7 @@ question of circadian timing.
 
 %%
 %% ================================================================
-%% SECTION 3 — OSCC/HNSCC treatment pathways
+%% SECTION 3 --- OSCC/HNSCC treatment pathways
 %% ================================================================
 %%
 \section{Cisplatin entry points in OSCC/HNSCC treatment pathways: staging,
@@ -377,16 +396,83 @@ three-weekly cisplatin superior for 2-year locoregional control
 (73.1\% vs 58.5\%; HR~1.76; $p = 0.014$)~\cite{Noronha2018}, demonstrating
 that weekly cisplatin at 30\,mg\,m$^{-2}$ does not reliably substitute for
 the standard schedule in all OSCC contexts. Importantly, the cumulative
-cisplatin dose — regardless of schedule — is a dose-limiting toxicity
+cisplatin dose --- regardless of schedule --- is a dose-limiting toxicity
 predictor: a systematic review identified 200\,mg\,m$^{-2}$ as the
 threshold above which nephrotoxicity and ototoxicity rates rise
 markedly~\cite{Strojan2016}, providing an additional scheduling constraint
 that is independent of and complementary to circadian timing.  The divergent
 results of these trials underline that toxicity management, not schedule
-optimisation alone, remains a first-order clinical problem — and that
+optimisation alone, remains a first-order clinical problem --- and that
 weekly schedules, by providing six to seven potential timing-intervention
 windows rather than three, may actually offer an advantage for chronotherapy
 implementation.
+
+\subsection{International guideline convergence and regional practice variation}
+
+International guidance converges on a shared therapeutic backbone while
+leaving considerable room for regional adaptation.  In the United States,
+the NCCN framework treats cisplatin-based concurrent chemoradiotherapy as
+the reference systemic partner for definitive or postoperative radiotherapy
+in fit patients with locoregionally advanced HNSCC, a position grounded in
+the postoperative EORTC~22931 and RTOG~9501 trials and reinforced by later
+data showing inferior outcomes when cetuximab replaces cisplatin in
+cisplatin-eligible HPV-positive disease~\cite{Caudell2022, Bernier2004,
+Cooper2004, Gillison2019, Mehanna2019}.  The ASCO neck-management guideline
+is similarly surgery-centred for oral cavity cancer, emphasising adequate
+neck management and selective use of postoperative radiotherapy or
+chemoradiotherapy when pathological risk factors justify treatment
+intensification~\cite{Koyfman2019}.
+
+European and UK recommendations frame the same principle through a more
+explicitly multidisciplinary oral-cavity pathway.  The EHNS--ESMO--ESTRO
+guideline covers squamous carcinomas of the oral cavity, larynx, oropharynx,
+and hypopharynx and endorses surgery followed by risk-adapted radiotherapy
+or chemoradiotherapy for resectable oral cavity disease~\cite{Machiels2020}.
+The UK National Multidisciplinary Guideline is especially explicit for oral
+cavity and lip cancer: surgery remains the mainstay for oral cavity tumours,
+clinical clearance of approximately 1~cm is recommended when vital
+structures permit, elective neck treatment is recommended for oral cavity
+tumours, and adjuvant radiochemotherapy improves control in the presence of
+advanced neck disease or positive margins~\cite{Kerawala2016}.  Importantly
+for the present review, the same UK guideline recognises cisplatin
+100\,mg\,m$^{-2}$ every three weeks as the best-known concurrent regimen
+while acknowledging that other platinum schedules are used in practice,
+capturing the gap between guideline reference regimens and real-world
+deliverability~\cite{Kerawala2016}.
+
+Asian practice illustrates why this gap matters.  The Pan-Asian adaptation
+of the EHNS--ESMO--ESTRO guideline was developed specifically to translate
+the European recommendations into Asian health-care settings, including
+expert representation from Japan, India, Taiwan, Korea, China, Malaysia,
+and Singapore~\cite{Keam2021}.  In Japan, JCOG1008 provides randomised
+evidence supporting weekly cisplatin 40\,mg\,m$^{-2}$ as a non-inferior
+postoperative option when adequate cumulative exposure is maintained
+\cite{Kiyota2022}.  In India, the Tata Memorial trial provides the important
+counterpoint that weekly cisplatin at 30\,mg\,m$^{-2}$ was inferior to
+three-weekly high-dose cisplatin for locoregional control in a predominantly
+oral cavity adjuvant population~\cite{Noronha2018}.  These two trials are
+not contradictory so much as dose- and context-specific: they show that
+``weekly cisplatin'' is not a single intervention, and that both dose per
+infusion and cumulative delivered dose must be specified.
+
+Taiwan is a particularly relevant real-world context because of the high
+burden of oral cavity squamous cell carcinoma associated with betel-quid
+exposure.  Taiwanese practice generally follows the same cisplatin-based
+chemoradiotherapy backbone, but treatment is frequently adapted for renal
+function, nutritional compromise, mucositis risk, and performance status.
+Population-based Taiwanese data in stage~III--IV HNSCC associated total
+cisplatin dose $\geq$240\,mg\,m$^{-2}$ with survival-related prognostic
+significance, while a postoperative high-risk oral cavity cohort found that
+a larger proportion of patients receiving three-weekly cisplatin achieved
+the commonly cited $\geq$200\,mg\,m$^{-2}$ cumulative threshold than those
+receiving weekly low-dose cisplatin~\cite{Chang2017, Tsan2012}.  For Taiwan
+and other high-OSCC-burden settings, the practical problem is therefore not
+whether cisplatin is the standard backbone, but how to preserve adequate
+cumulative exposure while reducing the organ-specific toxicities that drive
+dose delay, dose omission, and treatment interruption.  This is precisely
+the clinical niche in which chronotype-aware scheduling could be tested:
+as a toxicity-reduction strategy layered onto existing regional standards,
+not as a replacement for surgery, radiotherapy, or cisplatin itself.
 
 \subsection{Delivery logistics and the chronobiological blind spot}
 
@@ -411,7 +497,7 @@ operationally precise but chronobiologically silent.
 
 %%
 %% ================================================================
-%% SECTION 4 — Organ-specific toxicity mechanisms
+%% SECTION 4 --- Organ-specific toxicity mechanisms
 %% ================================================================
 %%
 \section{Why cisplatin injures specific organs: tissue uptake, DNA damage,
@@ -514,8 +600,8 @@ supporting FDA approval of STS (Pedmark) for this indication in September
 2022.  However, direct extrapolation to adult HNSCC raises a substantive
 concern: STS binds and inactivates extracellular cisplatin, and preclinical
 data suggest that systemic STS may reduce tumour cisplatin exposure.  In
-adult HNSCC — where cisplatin serves as a radiosensitiser against
-locoregional disease rather than a solely systemic agent — the risk of
+adult HNSCC --- where cisplatin serves as a radiosensitiser against
+locoregional disease rather than a solely systemic agent --- the risk of
 antitumour antagonism has substantially limited STS adoption and explains
 why the cochlear platinum retention documented by Breglio et al.\ remains
 an unresolved clinical problem in this population~\cite{Breglio2017}.
@@ -618,7 +704,7 @@ clinically relevant to cisplatin administration.
   timing gates}
 \label{tab:toxicity}
 \small
-\begin{tabular}{p{1.8cm} p{2.4cm} p{2.2cm} p{3.5cm} p{2.8cm} p{2.2cm}}
+\begin{tabularx}{\linewidth}{L{3.2cm} L{2.9cm} L{2.5cm} Y Y Y}
 \toprule
 \textbf{Toxicity} & \textbf{Target tissue} & \textbf{Access route} &
   \textbf{Injury mechanisms} & \textbf{Potential timing gate} &
@@ -670,13 +756,13 @@ Myelosuppression &
   Hematopoietic progenitor cycling &
   Combination-regimen relevant \\
 \bottomrule
-\end{tabular}
+\end{tabularx}
 \end{sidewaystable}
 
 
 %%
 %% ================================================================
-%% SECTION 5 — Circadian timing gates
+%% SECTION 5 --- Circadian timing gates
 %% ================================================================
 %%
 \section{Circadian timing gates in cisplatin uptake, repair, redox control,
@@ -685,9 +771,9 @@ Myelosuppression &
 
 %% [WORD COUNT: ~1,010 words]
 
-The molecular clock mechanism — a transcription--translation feedback loop
+The molecular clock mechanism --- a transcription--translation feedback loop
 anchored by the CLOCK/BMAL1 heterodimer and repressed by Period (PER) and
-Cryptochrome (CRY) proteins — does not merely govern sleep--wake cycles and
+Cryptochrome (CRY) proteins --- does not merely govern sleep--wake cycles and
 metabolism.  It imposes temporal structure on at least five processes that
 directly determine how much cisplatin-induced injury accumulates in normal
 tissues: nucleotide excision repair capacity; renal transporter expression;
@@ -715,13 +801,13 @@ translate to measurable human outcomes.
 
 \subsection{XPA and the circadian control of nucleotide excision repair}
 
-XPA is the DNA-damage verification scaffold of the NER pathway — the
+XPA is the DNA-damage verification scaffold of the NER pathway --- the
 rate-limiting step at which the repair machinery confirms the presence of a
 helix-distorting lesion and assembles the dual-incision complex around it.
 Its oscillating abundance is the best-characterised circadian gate for
 cisplatin toxicity.  Kang and colleagues demonstrated that CLOCK/BMAL1 drives
-\emph{Xpa} gene transcription directly, while CRY proteins — themselves
-products of clock-driven transcription — promote XPA proteasomal degradation
+\emph{Xpa} gene transcription directly, while CRY proteins --- themselves
+products of clock-driven transcription --- promote XPA proteasomal degradation
 via the HERC2 ubiquitin ligase~\cite{Kang2010}.  The opposing drives produce
 a robust oscillation: XPA protein peaks at approximately Zeitgeber time (ZT)
 10 and reaches its nadir at approximately ZT22, with an amplitude spanning
@@ -747,7 +833,7 @@ transcriptionally induces peroxisome proliferator-activated receptor~$\alpha$
 (PPAR$\alpha$), which in turn occupies the \emph{Slc22a2} promoter and drives
 rhythmic OCT2 protein accumulation~\cite{Oda2014}.  In mice, renal OCT2
 protein peaks near ZT14.  Consistent with this, a single cisplatin dose
-administered at ZT6 — rising OCT2, highest tubular influx — produced
+administered at ZT6 --- rising OCT2, highest tubular influx --- produced
 significantly greater nephrotoxicity than the same dose at ZT18~\cite{Oda2014}.
 In \emph{Clock} mutant mice lacking CLOCK transcriptional activity, OCT2
 oscillation was abolished and the dosing-time difference in nephrotoxicity
@@ -776,10 +862,10 @@ Bjarnason and colleagues performed the only direct molecular-clock measurement
 in human oral mucosal tissue, sampling biopsies at multiple time points across
 24~hours from healthy volunteers~\cite{Bjarnason2001}.  Clock gene expression
 was robustly rhythmic: hPer1 peaked at approximately 07:58, hCry1 at 17:04,
-and hBmal1 at 21:40 — confirming that the autonomous circadian oscillator
+and hBmal1 at 21:40 --- confirming that the autonomous circadian oscillator
 operates in normal oral epithelium with the expected phase relationships.
-Critically, thymidylate synthase (TS) activity — a functional marker of
-S-phase proliferative commitment — peaked at approximately 13:27, identifying
+Critically, thymidylate synthase (TS) activity --- a functional marker of
+S-phase proliferative commitment --- peaked at approximately 13:27, identifying
 a mid-afternoon window of maximum mitotic activity~\cite{Bjarnason2001}.
 Because cisplatin-induced DNA damage is most cytotoxic to actively dividing
 cells, a DNA-damaging insult delivered at the proliferative peak would be
@@ -802,15 +888,15 @@ context.
 First, in a cisplatin-treated mouse model, Zha and colleagues found that
 \emph{Bmal1} knockout significantly reduced cisplatin-induced acute kidney
 injury: the wild-type BMAL1-competent kidney was more susceptible to tubular
-cell death, suggesting that BMAL1 facilitates — rather than protects
-against — renal cisplatin toxicity, possibly by coordinating
+cell death, suggesting that BMAL1 facilitates --- rather than protects
+against --- renal cisplatin toxicity, possibly by coordinating
 pro-inflammatory NF-$\kappa$B and pro-apoptotic signalling in tubular
 cells~\cite{Zha2020}.  Second, in OSCC, Li and colleagues demonstrated that
 BMAL1 acts as a tumour suppressor: high BMAL1 expression correlates with
 better prognosis, and BMAL1 promotes autophagy-mediated death in OSCC cells;
 cisplatin-induced BMAL1 upregulation may therefore enhance tumour
 sensitivity~\cite{Li2022ARNTL}.  Third, in nasopharyngeal carcinoma (NPC)
-— a closely related SCC of the head and neck — Peng and colleagues
+--- a closely related SCC of the head and neck --- Peng and colleagues
 showed that epigenetic silencing of \emph{ARNTL} (BMAL1) promotes cisplatin
 resistance, while restoration of BMAL1 expression resensitises cells to
 cisplatin~\cite{Peng2019}.
@@ -825,7 +911,7 @@ as a hypothesis-generating signal rather than a settled mechanism.  The
 framing that best fits the current data is therefore one of a
 \emph{host--tumour clock contrast}: clock-active tumour cells are more
 cisplatin-sensitive, while the renal host response to clock activity may
-add to toxicity.  If confirmed, this asymmetry would be exploitable — a
+add to toxicity.  If confirmed, this asymmetry would be exploitable --- a
 timing window that reduces renal OCT2-driven uptake while maintaining
 tumour BMAL1 activity and cisplatin sensitivity.  A naive framework in which
 ``restoring or amplifying the clock reduces toxicity'' remains insufficient
@@ -843,12 +929,12 @@ driven by hypoxia, metabolic reprogramming, and disrupted cell-cycle
 control~\cite{Kramer2022}.  If OSCC tumour cells have low BMAL1 activity
 and thus diminished circadian clock amplitude, they would fail to upregulate
 the clock-driven cisplatin-repair machinery (XPA) during the subjective
-morning — the very window when host normal tissues are best positioned to
+morning --- the very window when host normal tissues are best positioned to
 repair cisplatin adducts.  In this model, the host--tumour clock contrast is
 not a complication to manage but the mechanistic basis of the therapeutic
 window: normal tissues repair efficiently at the XPA/NER peak, tumour cells
-cannot.  The \emph{host--tumour clock contrast} — the difference in
-circadian amplitude between normal and tumour cells — could itself be a
+cannot.  The \emph{host--tumour clock contrast} --- the difference in
+circadian amplitude between normal and tumour cells --- could itself be a
 biomarker of likely chronotherapy benefit.  This reframing has a direct
 translational implication: the exploratory biomarker objectives in
 Section~\ref{sec:future} should include tumour BMAL1/PER2 IHC as a
@@ -866,8 +952,8 @@ This represents a prerequisite for the timing-gate model: the expected benefit
 of time-of-delivery optimisation depends on a sufficiently intact circadian
 oscillation in host normal tissues, which cannot be assumed in the heavily
 treated OSCC/HNSCC patient population.  A further implication is that the
-circadian function index (CFI) — measured from wrist actigraphy as
-proposed in Section~\ref{sec:future} — captures \emph{system-level}
+circadian function index (CFI) --- measured from wrist actigraphy as
+proposed in Section~\ref{sec:future} --- captures \emph{system-level}
 circadian integrity across all tissues, including those most relevant to
 cisplatin toxicity.
 
@@ -881,12 +967,10 @@ confound.  Whether these mechanistic predictions translate into clinically
 measurable toxicity differences is examined in Section~\ref{sec:evidence}.
 
 % ---- Table 2 ---- %
-\begin{sidewaystable}[htbp]
-\centering
+\begin{compactsidewaystable}
 \caption{Circadian timing gates relevant to cisplatin toxicity and response}
 \label{tab:gates}
-\small
-\begin{tabular}{p{2.2cm} p{3.0cm} p{2.8cm} p{2.2cm} p{2.8cm} p{1.8cm}}
+\begin{tabularx}{0.95\textheight}{L{2.4cm} Y Y L{2.2cm} Y L{2.2cm}}
 \toprule
 \textbf{Gate / molecule} & \textbf{Function} & \textbf{Circadian evidence} &
   \textbf{Tissue relevance} & \textbf{Timing implication} &
@@ -930,8 +1014,7 @@ Mucosal cell-cycle regulators &
 BMAL1 / ARNTL &
   Core clock factor; tissue-specific effects &
   Two-tissue asymmetry: host renal
-  (Zha 2020 — single lab, unconfirmed); tumour-side concordance —
-  OSCC tumour suppressor (Li 2022) and NPC cisplatin sensitiser (Peng 2019) &
+  (Zha 2020 --- single lab, unconfirmed); tumour-side concordance --- OSCC tumour suppressor (Li 2022) and NPC cisplatin sensitiser (Peng 2019) &
   Kidney (host), OSCC/NPC tumour &
   Host--tumour clock contrast may be exploitable; Zha 2020 awaits
   independent replication &
@@ -966,13 +1049,13 @@ Gut microbiome
   May modulate mucositis; role in HNSCC uncharacterised &
   Hypothesis-generating \\
 \bottomrule
-\end{tabular}
-\end{sidewaystable}
+\end{tabularx}
+\end{compactsidewaystable}
 
 
 %%
 %% ================================================================
-%% SECTION 6 — Chronotherapy evidence
+%% SECTION 6 --- Chronotherapy evidence
 %% ================================================================
 %%
 \section{Clinical and preclinical evidence: promising toxicity signals but
@@ -985,8 +1068,7 @@ The mechanistic case for cisplatin chronotherapy rests on the molecular
 evidence reviewed in Section~\ref{sec:gates}; the clinical evidence base
 is promising but small.  Table~\ref{tab:evidence} summarises the key
 studies.  The principal conclusion from this literature is that
-toxicity reduction is the most defensible near-term endpoint —
-survival benefit has not been demonstrated and is not a realistic
+toxicity reduction is the most defensible near-term endpoint --- survival benefit has not been demonstrated and is not a realistic
 primary endpoint for phase~II study in this field.
 
 \subsection{OSCC pilot: dosing-time effects on toxicity and tumour response}
@@ -1018,9 +1100,9 @@ Zhang and colleagues conducted a phase~II randomised study in patients
 with locally advanced nasopharyngeal carcinoma receiving concurrent
 cisplatin and radiotherapy~\cite{Zhang2018}.  The intervention warrants
 precise characterisation: patients were randomised to \emph{chronomodulated
-infusion-rate} delivery — in which the rate of cisplatin infusion was
+infusion-rate} delivery --- in which the rate of cisplatin infusion was
 varied according to a pre-specified sinusoidal function targeting a fixed
-population-level low-toxicity phase — versus constant-rate infusion
+population-level low-toxicity phase --- versus constant-rate infusion
 administered at the same clock time.  The chronomodulated arm showed
 reduced rates of clinically significant nausea, vomiting, and oral
 mucositis without evidence of compromised antitumour activity at the
@@ -1031,8 +1113,8 @@ the framework proposed in this review.  First, Zhang 2018 tested
 \emph{infusion-rate chronomodulation at a fixed clock time}: a pre-specified
 sinusoidal delivery profile applied uniformly to all patients, regardless of
 their individual circadian phase.  This is not equivalent to
-\emph{chronotype-anchored scheduling} — the personalised approach proposed
-in Section~\ref{sec:future} — which calculates the delivery window
+\emph{chronotype-anchored scheduling} --- the personalised approach proposed
+in Section~\ref{sec:future} --- which calculates the delivery window
 individually from each patient's measured circadian phase~\cite{Roenneberg2003}.
 Zhang 2018 therefore provides mechanistic plausibility for the principle that
 the temporal pattern of cisplatin delivery within a dose modulates acute
@@ -1076,7 +1158,7 @@ platinum-based chronomodulated therapy ever
 conducted~\cite{Giacchetti2006}.  Among 564 patients with advanced
 colorectal cancer, chronomodulated oxaliplatin/5-fluorouracil/leucovorin
 improved objective response rate and reduced grade~$\geq$3 mucositis and
-functional impairment versus conventional infusion — but this benefit was
+functional impairment versus conventional infusion --- but this benefit was
 entirely concentrated in male patients.  Women in the chronomodulated arm
 experienced \emph{significantly worse} toxicity and inferior survival
 outcomes, a sex$\times$timing interaction that was neither predicted by
@@ -1089,8 +1171,8 @@ a chronomodulated schedule optimised for average male chronobiology was
 actively harmful in women.  Second, animal-to-human and sex-specific
 extrapolation cannot be assumed from rodent data and requires explicit
 experimental interrogation.  Third, prospective sex-stratified analysis
-— with formal pre-specified interaction tests and independent safety
-monitoring of female participants — is a patient safety requirement
+--- with formal pre-specified interaction tests and independent safety
+monitoring of female participants --- is a patient safety requirement
 in any future cisplatin chronomodulation trial, not a statistical option.
 Innominato and colleagues subsequently confirmed sex-related modulation of
 chronotherapy outcomes in the ARTDECO trial~\cite{Innominato2020},
@@ -1123,7 +1205,7 @@ rationale for time-of-delivery research in oncology.
 \caption{Evidence base for cisplatin chronotherapy relevant to OSCC/HNSCC}
 \label{tab:evidence}
 \small
-\begin{tabular}{p{2.2cm} p{2.6cm} p{2.8cm} p{2.8cm} p{2.4cm} p{2.0cm}}
+\begin{tabularx}{\linewidth}{L{2.6cm} Y Y Y Y Y}
 \toprule
 \textbf{Study type} & \textbf{Model/population} & \textbf{Intervention} &
   \textbf{Main findings} & \textbf{Major limitation} &
@@ -1164,13 +1246,13 @@ Population chronobiology cohorts &
   Not cisplatin-specific &
   Circadian integrity as prognostic biomarker \\
 \bottomrule
-\end{tabular}
+\end{tabularx}
 \end{sidewaystable}
 
 
 %%
 %% ================================================================
-%% SECTION 7 — Future directions
+%% SECTION 7 --- Future directions
 %% ================================================================
 %%
 \section{From fixed clock-time dosing to chronotype-aware cisplatin scheduling}
@@ -1188,15 +1270,15 @@ toxicity as the primary endpoint rather than a secondary measure;
 prospective circadian integrity assessment; biomarker integration for
 mechanistic interpretation; and systematic evaluation of workflow
 feasibility.  Table~\ref{tab:trial} presents a schematic design for a
-proof-of-concept phase~II randomised trial — \emph{Chronotype-informed
+proof-of-concept phase~II randomised trial --- \emph{Chronotype-informed
 cisplatin scheduling for toxicity reduction in OSCC/HNSCC receiving
-chemoradiotherapy} — that embodies all five principles.
+chemoradiotherapy} --- that embodies all five principles.
 
 \subsection{Design principle 1: chronotype-aware, not fixed clock}
 
 The principal failure mode of early chronotherapy trials was the
-application of a universal clock time — typically a fixed morning
-or evening infusion window — to an uncharacterised patient population.
+application of a universal clock time --- typically a fixed morning
+or evening infusion window --- to an uncharacterised patient population.
 Circadian phase varies substantially between individuals: the
 midsleep-point on free days (the Munich Chronotype Questionnaire proxy
 for intrinsic circadian phase)~\cite{Roenneberg2003} varies by more than
@@ -1216,7 +1298,7 @@ free days (MSFsc) $-$~7~hours}.  The $-7$\,h offset is derived from the
 OCT2 oscillation: renal OCT2 peaks near ZT14 ($\sim$mid-subjective
 afternoon in diurnal organisms) and is at nadir near ZT2 ($\sim$early
 subjective morning)~\cite{Oda2014}.  Dosing at MSFsc~$-$~7\,h targets a
-phase approximately 5--7~hours before the predicted OCT2 peak — the
+phase approximately 5--7~hours before the predicted OCT2 peak --- the
 window during which OCT2-mediated platinum uptake is declining and XPA-driven
 NER capacity is approaching its zenith~\cite{Kang2010}.
 
@@ -1254,7 +1336,7 @@ rather than a single pre-treatment assessment.
 Survival-focused endpoints are inappropriate for a proof-of-concept
 chronotherapy trial in OSCC/HNSCC.  The proposed primary composite endpoint is the rate of Grade~$\geq$3
 mucositis (CTCAE v5.0) or Grade~$\geq$3 nephrotoxicity within
-\textbf{six weeks of the first cisplatin infusion} — a fixed calendar
+\textbf{six weeks of the first cisplatin infusion} --- a fixed calendar
 period chosen to capture the expected toxicity peak for both endpoints
 (mucositis peaks at weeks 4--6 of concurrent CRT; cumulative nephrotoxicity
 is most sensitive after two or more full-dose cycles).  A calendar-period
@@ -1279,9 +1361,8 @@ are co-primary from the patient perspective.
 \subsection{Design principle 3: circadian integrity assessment}
 
 Cancer patients frequently have disrupted rest--activity rhythms at
-baseline~\cite{Mormont2000, Mormont2003}, and treatment itself —
-inflammation, pain, anxiety, altered sleep hygiene during concurrent
-chemoradiotherapy — further attenuates circadian amplitude.  The
+baseline~\cite{Mormont2000, Mormont2003}, and treatment itself --- inflammation, pain, anxiety, altered sleep hygiene during concurrent
+chemoradiotherapy --- further attenuates circadian amplitude.  The
 proposed trial incorporates continuous wrist actigraphy throughout
 treatment and employs the circadian function index
 (CFI)~\cite{OrtizTudela2016} and interdaily stability metrics to
@@ -1348,13 +1429,11 @@ between 10~a.m.\ and 6~p.m., overlapping substantially with standard
 outpatient infusion hours and limiting the logistic burden~\cite{Levi2020,
 Innominato2012}.
 
-\begin{sidewaystable}[htbp]
-\centering
+\begin{compactsidewaystable}
 \caption{Schematic design: \emph{Chronotype-informed cisplatin scheduling
   for toxicity reduction in OSCC/HNSCC receiving chemoradiotherapy}}
 \label{tab:trial}
-\small
-\begin{tabular}{p{3.2cm} p{10.0cm}}
+\begin{tabularx}{0.95\textheight}{L{3.0cm} Y}
 \toprule
 \textbf{Design element} & \textbf{Specification} \\
 \midrule
@@ -1426,8 +1505,8 @@ Feasibility sub-study &
   First 20 patients: pharmacy preparation lead time; actual vs target
   infusion start; nursing acceptability; patient preference for scheduling. \\
 \bottomrule
-\end{tabular}
-\end{sidewaystable}
+\end{tabularx}
+\end{compactsidewaystable}
 
 \subsection{Chronotherapy in the context of established toxicity-reduction strategies}
 
@@ -1441,7 +1520,7 @@ with forced saline diuresis and magnesium supplementation substantially
 reduces nephrotoxicity incidence and remains the current standard of
 care~\cite{Manohar2018}.  These manoeuvres address the \emph{concentration}
 of cisplatin in the tubular lumen, whereas chronotherapy addresses the
-\emph{transporter-mediated uptake} at the basolateral membrane — different
+\emph{transporter-mediated uptake} at the basolateral membrane --- different
 mechanistic targets that are not mutually exclusive.
 
 \emph{Sodium thiosulfate (STS) otoprotection:} As reviewed in
@@ -1458,7 +1537,7 @@ Chronotherapy would not be expected to interact with amifostine's mechanism.
 
 \emph{Proton therapy, IMRT, and parotid-sparing radiotherapy:} These
 radiotherapy techniques reduce xerostomia and dysphagia but do not directly
-address cisplatin nephrotoxicity or ototoxicity — the principal
+address cisplatin nephrotoxicity or ototoxicity --- the principal
 dose-limiting toxicities.  Chronotherapy is orthogonal to these
 radiotherapy-based strategies.
 
@@ -1477,24 +1556,23 @@ three-weekly regimen.
 and without modification to the radiotherapy workflow}: the dose, formulation,
 and schedule are unchanged; only the clock-time of delivery is adjusted.
 If a 20--25\% reduction in Grade~$\geq$3 combined toxicity can be achieved
-through scheduling alone, the clinical argument for its routine adoption —
-particularly in combination with hyperhydration and radiotherapy
-optimisation — would be compelling.
+through scheduling alone, the clinical argument for its routine adoption --- particularly in combination with hyperhydration and radiotherapy
+optimisation --- would be compelling.
 
 This conceptual framework is intentionally modest: it seeks to
 establish whether chronotype-adjusted delivery reduces toxicity
 in a measurable way before any claim about efficacy.  If a 20--25\%
 reduction in Grade~$\geq$3 combined toxicity can be demonstrated
 while preserving dose intensity, the case for a phase~III survival
-trial — incorporating the sex-stratification lessons of
+trial --- incorporating the sex-stratification lessons of
 Giacchetti~\cite{Giacchetti2006} and the circadian monitoring
-infrastructure of Innominato et al.~\cite{Innominato2014} — becomes
+infrastructure of Innominato et al.~\cite{Innominato2014} --- becomes
 credible and clinically compelling.
 
 
 %%
 %% ================================================================
-%% SECTION 8 — Conclusion
+%% SECTION 8 --- Conclusion
 %% ================================================================
 %%
 \section{Conclusion}
@@ -1504,8 +1582,8 @@ credible and clinically compelling.
 
 Cisplatin remains the most important chemotherapeutic agent in the
 concurrent management of locally advanced OSCC and HNSCC, but its
-organ-specific toxicities — nephrotoxicity, ototoxicity, oral mucositis,
-nausea and vomiting, and peripheral neuropathy — constitute the
+organ-specific toxicities --- nephrotoxicity, ototoxicity, oral mucositis,
+nausea and vomiting, and peripheral neuropathy --- constitute the
 principal barrier to treatment completion and full-dose delivery.
 These toxicities are not interchangeable: each reflects a distinct
 biology of transporter-mediated platinum uptake, localised adduct
@@ -1520,14 +1598,14 @@ influx, XPA-dependent nucleotide excision repair of platinum--DNA
 adducts, glutathione redox buffering, and mucosal epithelial
 proliferative rate.  The mechanistic case for timing-based toxicity modulation is therefore
 supported by a body of quantitative molecular data, not by empirical
-dose-scheduling intuition alone — while remaining \emph{mechanistically
+dose-scheduling intuition alone --- while remaining \emph{mechanistically
 plausible} rather than proven in the specific context of OSCC/HNSCC
 patient tissues.  The BMAL1/ARNTL data reveal a two-tissue asymmetry
 with tumour-side concordance: both OSCC and NPC studies find that
 BMAL1 promotes cisplatin sensitivity, while the renal pro-injury role
 (Zha 2020) awaits independent replication.  If confirmed, this
 host--tumour clock contrast would itself be a targetable feature of
-chronotherapy — a window in which tumour cisplatin sensitivity is
+chronotherapy --- a window in which tumour cisplatin sensitivity is
 maximised while host uptake and injury are minimised.
 
 The existing clinical evidence for cisplatin chronotherapy in
@@ -1538,17 +1616,17 @@ individual chronotype characterisation.  The sex$\times$timing
 interaction observed in colorectal cancer chronotherapy trials
 is a mandatory design constraint for future OSCC/HNSCC work.
 Chronotherapy does not replace established toxicity-reduction strategies
-— hyperhydration, schedule modification, and radiotherapy optimisation
-remain the clinical standard — but it occupies a distinct mechanistic
+--- hyperhydration, schedule modification, and radiotherapy optimisation
+remain the clinical standard --- but it occupies a distinct mechanistic
 niche: it targets cisplatin uptake and repair at the cellular level
 without dose reduction, pharmacological additives, or changes to the
 radiotherapy workflow.  It is therefore complementary to, not competitive
 with, existing approaches.
 
-A phase~II chronotype-aware trial — using Grade~$\geq$3 mucositis or
+A phase~II chronotype-aware trial --- using Grade~$\geq$3 mucositis or
 nephrotoxicity within six weeks of first cisplatin as the primary endpoint,
 with pre-specified sex stratification, prospective CFI monitoring, and
-biomarker integration — is both scientifically warranted and logistically
+biomarker integration --- is both scientifically warranted and logistically
 achievable within standard chemoradiotherapy delivery infrastructure.
 Whether timing can reduce the toxicity burden enough to improve dose
 completion rates and, ultimately, survival outcomes in this disease is
@@ -1561,19 +1639,25 @@ the question that such a trial is positioned to answer.
 %% ================================================================
 %%
 
-\begin{figure}[htbp]
+\clearpage
+\begin{center}
   \centering
   \includegraphics[width=\textwidth]{../figure/fig1}
-  \caption{\textbf{Cisplatin mechanism of action, organ-specific toxicity
-    pathways, and circadian timing gates.}
+  \captionof{figure}{\textbf{Cisplatin mechanism of action, organ-specific
+    toxicity pathways, and circadian timing gates.}}
+  \label{fig:mechanism}
+\end{center}
+
+{\footnotesize
+\noindent\textbf{Figure~\ref{fig:mechanism} legend.}
     \textbf{(A)}~Cellular mechanism of cisplatin cytotoxicity. Cisplatin
     enters cells via CTR1 (influx) and OCT2 (tissue-specific influx in
     kidney and cochlea); intracellular export is mediated by ATP7B.
     Aquation in the low-chloride cytoplasm generates reactive platinum
     species that form 1,2-d(GpG) intrastrand crosslinks (65--70\% of
-    adducts) on nuclear DNA. The NER pathway (XPA scaffold→RPA→TFIIH→
-    dual incision→gap-fill ligation) resolves adducts when repair capacity
-    is sufficient; when overwhelmed, ATR→Chk1→p53→BAX/PUMA→caspase~3/7
+    adducts) on nuclear DNA. The NER pathway (XPA scaffold--RPA--TFIIH\allowbreak--
+    dual incision--gap-fill ligation) resolves adducts when repair capacity
+    is sufficient; when overwhelmed, ATR--Chk1--p53--BAX/PUMA--caspase~3/7
     apoptosis is activated. XPA protein abundance oscillates with circadian
     periodicity (peak ZT10, nadir ZT22; 5--10$\times$ amplitude), annotated
     by the dashed clock box.
@@ -1586,7 +1670,7 @@ the question that such a trial is positioned to answer.
     irreversible SNHL affects 40--80\% of adults; STS otoprotection shown
     in paediatric trials~\cite{Brock2018}.
     \emph{Oral mucosa:} radiation and cisplatin synergise to activate
-    NF-$\kappa$B→IL-1$\beta$/TNF-$\alpha$, driving ulceration in nearly
+    NF-$\kappa$B--IL-1$\beta$/TNF-$\alpha$, driving ulceration in nearly
     all CRT patients; thymidylate synthase (TS) activity peaks at
     $\sim$13:27, identifying the mid-afternoon proliferative
     window~\cite{Bjarnason2001}.
@@ -1601,7 +1685,7 @@ the question that such a trial is positioned to answer.
     and BMAL1 mRNA (red; peak early subjective night). Amber shading
     marks the \emph{high-toxicity window} (ZT6--8: rising OCT2, low XPA);
     teal shading marks the \emph{lower-toxicity window} (ZT14--20: declining
-    OCT2, rising XPA). Inset: CLOCK/BMAL1→PER/CRY→HERC2-XPA degradation
+    OCT2, rising XPA). Inset: CLOCK/BMAL1--PER/CRY--HERC2-XPA degradation
     feedback loop. BMAL1 annotation reflects tissue-specific duality
     (Section~\ref{sec:gates}).
     Abbreviations: AKI, acute kidney injury; CTR1, copper transporter~1;
@@ -1609,16 +1693,20 @@ the question that such a trial is positioned to answer.
     outer hair cell; OCT2, organic cation transporter~2; ROS, reactive
     oxygen species; SNHL, sensorineural hearing loss; STS, sodium
     thiosulfate; TS, thymidylate synthase; XPA, xeroderma pigmentosum
-    complementation group~A; ZT, Zeitgeber time.}
-  \label{fig:mechanism}
-\end{figure}
+    complementation group~A; ZT, Zeitgeber time.\par}
 
-\begin{figure}[htbp]
+\clearpage
+\begin{center}
   \centering
   \includegraphics[width=\textwidth]{../figure/fig2}
-  \caption{\textbf{Proposed framework for chronotype-aware cisplatin
-    scheduling in OSCC/HNSCC: rationale, phase estimation, and trial
-    design.}
+  \captionof{figure}{\textbf{Proposed framework for chronotype-aware
+    cisplatin scheduling in OSCC/HNSCC: rationale, phase estimation,
+    and trial design.}}
+  \label{fig:framework}
+\end{center}
+
+{\footnotesize
+\noindent\textbf{Figure~\ref{fig:framework} legend.}
     \textbf{(A)}~The chronotype problem. \emph{Upper left:} Under fixed
     institutional clock-time dosing (e.g., 09:00), one single infusion
     time is applied to all patients regardless of their individual
@@ -1626,7 +1714,7 @@ the question that such a trial is positioned to answer.
     days (MSFsc; x-axis): early chronotypes (green; midsleep 01:00--02:30)
     receive cisplatin in their low-toxicity window, whereas late
     chronotypes (red; midsleep 03:30--05:00) receive it during their
-    high-toxicity window — suboptimal for 40--50\% of patients.
+    high-toxicity window --- suboptimal for 40--50\% of patients.
     \emph{Lower left:} Chronotype-adjusted dosing individualises the
     infusion time so that every patient receives cisplatin in their
     personal low-toxicity window, assessed by the Munich Chronotype
@@ -1664,10 +1752,9 @@ the question that such a trial is positioned to answer.
     MCTQ, Munich Chronotype Questionnaire; MSFsc, midsleep on free days
     (sleep-corrected); OCT2, organic cation transporter~2; PBL, peripheral
     blood leukocytes; QoL, quality of life; RT, radiotherapy; XPA,
-    xeroderma pigmentosum complementation group~A.}
-  \label{fig:framework}
-\end{figure}
+    xeroderma pigmentosum complementation group~A.\par}
 
+\clearpage
 
 %%
 %% ================================================================
